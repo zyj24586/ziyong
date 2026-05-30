@@ -330,356 +330,355 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1,group-title="河南省级台",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8
 
-#EXTINF:-1,group-title="河南地方台",郑州】郑州新闻综合
+#EXTINF:-1,group-title="河南地方台",郑州新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州商都频道
+#EXTINF:-1,group-title="河南地方台",郑州商都频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226402/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州商都频道
+#EXTINF:-1,group-title="河南地方台",郑州商都频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226650/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州文体旅游
+#EXTINF:-1,group-title="河南地方台",郑州文体旅游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州文体旅游
+#EXTINF:-1,group-title="河南地方台",郑州文体旅游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226627/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州豫剧频道
+#EXTINF:-1,group-title="河南地方台",郑州豫剧频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州豫剧频道
+#EXTINF:-1,group-title="河南地方台",郑州豫剧频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州妇女儿童
+#EXTINF:-1,group-title="河南地方台",郑州妇女儿童
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/index.m3u8
 #EXTINF:-1,group-title="河南地方台",郑州】郑州妇女儿童
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226686/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州都市生活
+#EXTINF:-1,group-title="河南地方台",郑州都市生活
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州都市生活
+#EXTINF:-1,group-title="河南地方台",郑州都市生活
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】郑州教育台
+#EXTINF:-1,group-title="河南地方台",郑州教育台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227383/index.m3u8
 #EXTINF:-1,group-title="河南地方台",郑州】巩义
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】巩义
+#EXTINF:-1,group-title="河南地方台",巩义
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227088/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】荥阳
+#EXTINF:-1,group-title="河南地方台",荥阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226490/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】荥阳
+#EXTINF:-1,group-title="河南地方台",荥阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】新密
+#EXTINF:-1,group-title="河南地方台",新密
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】新密
+#EXTINF:-1,group-title="河南地方台",新密
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】新郑
+#EXTINF:-1,group-title="河南地方台",新郑
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】新郑
+#EXTINF:-1,group-title="河南地方台",新郑
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226577/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】登封
+#EXTINF:-1,group-title="河南地方台",登封
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226497/index.m3u8
-#EXTINF:-1,group-title="河南地方台",郑州】登封
+#EXTINF:-1,group-title="河南地方台",登封
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226661/index.m3u8
 
-#EXTINF:-1,group-title="河南地方台",开封】开封新闻综合
+#EXTINF:-1,group-title="河南地方台",开封新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】开封新闻综合
+#EXTINF:-1,group-title="河南地方台",开封新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】开封文化旅游
+#EXTINF:-1,group-title="河南地方台",开封文化旅游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226396/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】开封文化旅游
+#EXTINF:-1,group-title="河南地方台",开封文化旅游
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】祥符
+#EXTINF:-1,group-title="河南地方台",开封祥符
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227349/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】杞县
+#EXTINF:-1,group-title="河南地方台",开封杞县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
-#EXTINF:-1,group-title="河南地方台",开封】兰考
+#EXTINF:-1,group-title="河南地方台",开封兰考
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227377/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳新闻综合
+#EXTINF:-1,group-title="河南地方台",洛阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226394/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳新闻综合
+#EXTINF:-1,group-title="河南地方台",洛阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳科教频道
+#EXTINF:-1,group-title="河南地方台",洛阳科教频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳科教频道
+#EXTINF:-1,group-title="河南地方台",洛阳科教频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳文体频道
+#EXTINF:-1,group-title="河南地方台",洛阳文体频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226390/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】洛阳文体频道
+#EXTINF:-1,group-title="河南地方台",洛阳文体频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】孟津
+#EXTINF:-1,group-title="河南地方台",洛阳孟津
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】新安
+#EXTINF:-1,group-title="河南地方台",洛阳新安
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227299/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】嵩县
+#EXTINF:-1,group-title="河南地方台",洛阳嵩县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
 #EXTINF:-1,group-title="河南地方台",洛阳】嵩县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】汝阳
+#EXTINF:-1,group-title="河南地方台",洛阳汝阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
-#EXTINF:-1,group-title="河南地方台",洛阳】宜阳
+#EXTINF:-1,group-title="河南地方台",洛阳宜阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山新闻综合
+#EXTINF:-1,group-title="河南地方台",平顶山新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8
 #EXTINF:-1,group-title="河南地方台",平顶山 平顶山新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山城市频道
+#EXTINF:-1,group-title="河南地方台",平顶山城市频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山城市频道
+#EXTINF:-1,group-title="河南地方台",平顶山城市频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山公共频道
+#EXTINF:-1,group-title="河南地方台",平顶山公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山公共频道
+#EXTINF:-1,group-title="河南地方台",平顶山公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226593/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 平顶山教育台
+#EXTINF:-1,group-title="河南地方台",平顶山教育台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227244/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 舞钢
+#EXTINF:-1,group-title="河南地方台",平顶山舞钢
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 舞钢
+#EXTINF:-1,group-title="河南地方台",平顶山舞钢
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226527/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 宝丰
+#EXTINF:-1,group-title="河南地方台",平顶山宝丰
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227081/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 叶县
+#EXTINF:-1,group-title="河南地方台",平顶山叶县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227159/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 鲁山
+#EXTINF:-1,group-title="河南地方台",平顶山鲁山
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227370/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 郏县
+#EXTINF:-1,group-title="河南地方台",平顶山郏县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:-1,group-title="河南地方台",平顶山 郏县
+#EXTINF:-1,group-title="河南地方台",平顶山郏县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 安阳新闻综合
+#EXTINF:-1,group-title="河南地方台",安阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
 #EXTINF:-1,group-title="河南地方台",安阳 安阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226634/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 安阳文旅
+#EXTINF:-1,group-title="河南地方台",安阳文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 安阳文旅
+#EXTINF:-1,group-title="河南地方台",安阳文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 林州
+#EXTINF:-1,group-title="河南地方台",安阳林州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227384/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 汤阴
+#EXTINF:-1,group-title="河南地方台",安阳汤阴
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227372/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 内黄
+#EXTINF:-1,group-title="河南地方台",安阳内黄
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226356/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 内黄
+#EXTINF:-1,group-title="河南地方台",安阳内黄
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:-1,group-title="河南地方台",安阳 滑县
+#EXTINF:-1,group-title="河南地方台",安阳滑县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
-#EXTINF:-1,group-title="河南地方台",鹤壁 鹤壁新闻综合
+#EXTINF:-1,group-title="河南地方台",鹤壁新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226384/index.m3u8
-#EXTINF:-1,group-title="河南地方台",鹤壁 鹤壁新闻综合
+#EXTINF:-1,group-title="河南地方台",鹤壁新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226563/index.m3u8
-#EXTINF:-1,group-title="河南地方台",鹤壁 浚县
+#EXTINF:-1,group-title="河南地方台",鹤壁浚县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227344/index.m3u8
-#EXTINF:-1,group-title="河南地方台",鹤壁 淇县
+#EXTINF:-1,group-title="河南地方台",鹤壁淇县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227061/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡新闻综合
+#EXTINF:-1,group-title="河南地方台",新乡新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡新闻综合
+#EXTINF:-1,group-title="河南地方台",新乡新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡公共
+#EXTINF:-1,group-title="河南地方台",新乡公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡公共
+#EXTINF:-1,group-title="河南地方台",新乡公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226667/index.m3u8
 #EXTINF:-1,group-title="河南地方台",新乡 卫辉
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 辉县
+#EXTINF:-1,group-title="河南地方台",新乡辉县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227332/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 长垣
+#EXTINF:-1,group-title="河南地方台",新乡长垣
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227313/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡县
+#EXTINF:-1,group-title="河南地方台",新乡县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 新乡县
+#EXTINF:-1,group-title="河南地方台",新乡县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 获嘉
+#EXTINF:-1,group-title="河南地方台",新乡获嘉
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227097/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 原阳
+#EXTINF:-1,group-title="河南地方台",新乡原阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227069/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 延津
+#EXTINF:-1,group-title="河南地方台",新乡延津
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 封丘
+#EXTINF:-1,group-title="河南地方台",新乡封丘
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226346/index.m3u8
-#EXTINF:-1,group-title="河南地方台",新乡 封丘
+#EXTINF:-1,group-title="河南地方台",新乡封丘
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226595/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 焦作综合
+#EXTINF:-1,group-title="河南地方台",焦作综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226382/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 焦作综合
+#EXTINF:-1,group-title="河南地方台",焦作综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 焦作公共
+#EXTINF:-1,group-title="河南地方台",焦作公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 焦作公共
+#EXTINF:-1,group-title="河南地方台",焦作公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 沁阳
+#EXTINF:-1,group-title="河南地方台",焦作沁阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 孟州
+#EXTINF:-1,group-title="河南地方台",焦作孟州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227035/index.m3u8
-#EXTINF:-1,group-title="河南地方台",焦作 温县
+#EXTINF:-1,group-title="河南地方台",焦作温县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227245/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 濮阳综合
+#EXTINF:-1,group-title="河南地方台",濮阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 濮阳综合
+#EXTINF:-1,group-title="河南地方台",濮阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226643/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 濮阳公共
+#EXTINF:-1,group-title="河南地方台",濮阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 濮阳公共
+#EXTINF:-1,group-title="河南地方台",濮阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 华龙
+#EXTINF:-1,group-title="河南地方台",濮阳华龙
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227307/index.m3u8
-#EXTINF:-1,group-title="河南地方台",濮阳 南乐
+#EXTINF:-1,group-title="河南地方台",濮阳南乐
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227096/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 许昌综合
+#EXTINF:-1,group-title="河南地方台",许昌综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 许昌综合
+#EXTINF:-1,group-title="河南地方台",许昌综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 许昌农业科教
+#EXTINF:-1,group-title="河南地方台",许昌农业科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226387/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 许昌农业科教
+#EXTINF:-1,group-title="河南地方台",许昌农业科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226653/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 禹州
+#EXTINF:-1,group-title="河南地方台",许昌禹州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 禹州
+#EXTINF:-1,group-title="河南地方台",许昌禹州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226615/index.m3u8
-#EXTINF:-1,group-title="河南地方台",许昌 襄城
+#EXTINF:-1,group-title="河南地方台",许昌襄城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1,group-title="河南地方台",漯河 漯河新闻综合
+#EXTINF:-1,group-title="河南地方台",漯河新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
-#EXTINF:-1,group-title="河南地方台",漯河 漯河新闻综合
+#EXTINF:-1,group-title="河南地方台",漯河新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8
-#EXTINF:-1,group-title="河南地方台",漯河 舞阳
+#EXTINF:-1,group-title="河南地方台",漯河舞阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
-#EXTINF:-1,group-title="河南地方台",漯河 临颍
+#EXTINF:-1,group-title="河南地方台",漯河临颍
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226873/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 三门峡新闻综合
+#EXTINF:-1,group-title="河南地方台",三门峡新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226381/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 三门峡新闻综合
+#EXTINF:-1,group-title="河南地方台",三门峡新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 陕州
+#EXTINF:-1,group-title="河南地方台",三门峡陕州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227250/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 义马
+#EXTINF:-1,group-title="河南地方台",三门峡义马
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 灵宝
+#EXTINF:-1,group-title="河南地方台",三门峡灵宝
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 渑池
+#EXTINF:-1,group-title="河南地方台",三门峡渑池
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 渑池
+#EXTINF:-1,group-title="河南地方台",三门峡渑池
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226619/index.m3u8
-#EXTINF:-1,group-title="河南地方台",三门峡 卢氏
+#EXTINF:-1,group-title="河南地方台",三门峡卢氏
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227023/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳新闻综合
+#EXTINF:-1,group-title="河南地方台",南阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226362/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳新闻综合
+#EXTINF:-1,group-title="河南地方台",南阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226671/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳科教
+#EXTINF:-1,group-title="河南地方台",南阳科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳科教
+#EXTINF:-1,group-title="河南地方台",南阳科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226620/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳公共
+#EXTINF:-1,group-title="河南地方台",南阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226373/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 南阳公共
+#EXTINF:-1,group-title="河南地方台",南阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226575/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 邓州
+#EXTINF:-1,group-title="河南地方台",南阳邓州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226348/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 邓州
+#EXTINF:-1,group-title="河南地方台",南阳邓州
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 方城
+#EXTINF:-1,group-title="河南地方台",南阳方城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227254/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 镇平
+#EXTINF:-1,group-title="河南地方台",南阳镇平
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 镇平
+#EXTINF:-1,group-title="河南地方台",南阳镇平
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 淅川
+#EXTINF:-1,group-title="河南地方台",南阳淅川
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 淅川
+#EXTINF:-1,group-title="河南地方台",南阳淅川
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226631/index.m3u8
-#EXTINF:-1,group-title="河南地方台",南阳 唐河
+#EXTINF:-1,group-title="河南地方台",南阳唐河
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘新闻综合
+#EXTINF:-1,group-title="河南地方台",商丘新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘新闻综合
+#EXTINF:-1,group-title="河南地方台",商丘新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘公共频道
+#EXTINF:-1,group-title="河南地方台",商丘公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226372/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘公共频道
+#EXTINF:-1,group-title="河南地方台",商丘公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘文体科教
+#EXTINF:-1,group-title="河南地方台",商丘文体科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 商丘文体科教
+#EXTINF:-1,group-title="河南地方台",商丘文体科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8
-#EXTINF:-1,group-title="河南地方台",商丘 永城
+#EXTINF:-1,group-title="河南地方台",商丘永城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳新闻综合
+#EXTINF:-1,group-title="河南地方台",信阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226369/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳新闻综合
+#EXTINF:-1,group-title="河南地方台",信阳新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳文旅频道
+#EXTINF:-1,group-title="河南地方台",信阳文旅频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳文旅频道
+#EXTINF:-1,group-title="河南地方台",信阳文旅频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226658/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳教育台
+#EXTINF:-1,group-title="河南地方台",信阳教育台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226518/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 信阳教育台
+#EXTINF:-1,group-title="河南地方台",信阳教育台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226674/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 平桥
+#EXTINF:-1,group-title="河南地方台",信阳平桥
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 平桥
+#EXTINF:-1,group-title="河南地方台",信阳平桥
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226683/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 浉河
+#EXTINF:-1,group-title="河南地方台",信阳浉河
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 浉河
+#EXTINF:-1,group-title="河南地方台",信阳浉河
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226651/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 光山
+#EXTINF:-1,group-title="河南地方台",信阳光山
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 新县
+#EXTINF:-1,group-title="河南地方台",信阳新县
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8
-#EXTINF:-1,group-title="河南地方台",信阳 淮滨
+#EXTINF:-1,group-title="河南地方台",信阳淮滨
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口新闻综合
+#EXTINF:-1,group-title="河南地方台",周口新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口新闻综合
+#EXTINF:-1,group-title="河南地方台",周口新闻综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口公共频道
+#EXTINF:-1,group-title="河南地方台",周口公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口公共频道
+#EXTINF:-1,group-title="河南地方台",周口公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226626/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口教育频道
+#EXTINF:-1,group-title="河南地方台",周口教育频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226636/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 周口教育频道
+#EXTINF:-1,group-title="河南地方台",周口教育频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226379/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 项城
+#EXTINF:-1,group-title="河南地方台",周口项城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226354/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 项城
+#EXTINF:-1,group-title="河南地方台",周口项城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226541/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 西华
+#EXTINF:-1,group-title="河南地方台",周口西华
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227321/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 沈丘
+#EXTINF:-1,group-title="河南地方台",周口沈丘
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227311/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 郸城
+#EXTINF:-1,group-title="河南地方台",周口郸城
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
-#EXTINF:-1,group-title="河南地方台",周口 太康
+#EXTINF:-1,group-title="河南地方台",周口太康
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店新闻综合频道
+#EXTINF:-1,group-title="河南地方台",驻马店新闻综合频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店新闻综合频道
+#EXTINF:-1,group-title="河南地方台",驻马店新闻综合频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226613/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店公共频道
+#EXTINF:-1,group-title="河南地方台",驻马店公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226375/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店公共频道
+#EXTINF:-1,group-title="河南地方台",驻马店公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226690/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店科教频道
+#EXTINF:-1,group-title="河南地方台",驻马店科教频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 驻马店科教频道
+#EXTINF:-1,group-title="河南地方台",驻马店科教频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226598/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 上蔡
+#EXTINF:-1,group-title="河南地方台",驻马店上蔡
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227065/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 正阳
+#EXTINF:-1,group-title="河南地方台",驻马店正阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227420/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 泌阳
+#EXTINF:-1,group-title="河南地方台",驻马店泌阳
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227347/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 遂平
+#EXTINF:-1,group-title="河南地方台",驻马店遂平
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227396/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 新蔡
+#EXTINF:-1,group-title="河南地方台",驻马店新蔡
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226512/index.m3u8
-#EXTINF:-1,group-title="河南地方台",驻马店 新蔡
+#EXTINF:-1,group-title="河南地方台",驻马店新蔡
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226691/index.m3u8
-#EXTINF:-1,group-title="河南地方台",济源 济源
+#EXTINF:-1,group-title="河南地方台",济源
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:-1,group-title="河南地方台",济源 济源
+#EXTINF:-1,group-title="河南地方台",济源
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226693/index.m3u8
-
 #EXTINF:-1,group-title="数字频道",求索记录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1,group-title="数字频道",求索记录
