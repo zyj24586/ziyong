@@ -18,9 +18,6 @@
 { "url": "http://fty.xxooo.cf/tv", "name": "饭太硬3" },
 { "url": "http://fty.888484.xyz/tv", "name": "饭太硬5" },
 { "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒" },
-{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二" },
-{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二" },
-{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二" },
 { "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" }]}
 
 
