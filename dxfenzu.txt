@@ -83,7 +83,7 @@ http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
 #EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
 http://219.150.217.47:6610/PLTV1/1200/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台"http://epg.51zmt.top:8000/tb1/ws/liaoning.png,辽宁卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
 http://219.150.217.47:6610/PLTV1/1120/index.m3u8?icpid=dxrm1
 #EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
 http://219.150.217.47:6610/PLTV1/1420/index.m3u8?icpid=dxrm1
