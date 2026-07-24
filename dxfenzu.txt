@@ -1,111 +1,111 @@
 #EXTM3U
-#EXTINF:-1,group-title="中央台",CCTV1
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV1
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://219.150.217.47:6610/PLTV1/940/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV2
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
 http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV3
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
 http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV4
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV5
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://219.150.217.47:6610/PLTV2/3680/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV5
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV6
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV7
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
 http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV8
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
 http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV9
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
 http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV10
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
 http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV11
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
 http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV12
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
 http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV13
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV14
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV15
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV5+
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="中央台",CCTV17
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://222.85.25.226/PLTV/88888888/224/3221227072/1.m3u8
-#EXTINF:-1,group-title="中央台",CETV1
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/中国教育1台.png",CETV1
 http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 #EXTINF:-1,group-title="中央台",CGTN
 http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",河南卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
 http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",东方卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
 http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",江苏卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
 http://219.150.217.47:6610/PLTV1/1000/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",湖南卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
 http://219.150.217.47:6610/PLTV1/1220/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",北京卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
 http://219.150.217.47:6610/PLTV1/1020/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",浙江卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
 http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",广东卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
 http://219.150.217.47:6610/PLTV1/1040/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",深圳卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
 http://219.150.217.47:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",安徽卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
 http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",安徽卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
 http://222.85.25.226/PLTV/88888888/224/3221227017/1.m3u8
-#EXTINF:-1,group-title="卫视台",山东卫视
+#EXTINF:-1,group-title="卫视台"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
 http://219.150.217.47:6610/PLTV1/1080/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",东南卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
 http://219.150.217.47:6610/PLTV1/1400/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",甘肃卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
 http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",广西卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
 http://219.150.217.47:6610/PLTV1/1440/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",贵州卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
 http://219.150.217.47:6610/PLTV1/1160/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",海南卫视
+#EXTINF:-1,group-title="卫视台"" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
 http://219.150.217.47:6610/PLTV1/1480/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",河北卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
 http://219.150.217.47:6610/PLTV1/1180/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",黑龙江卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
 http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",湖北卫视
+#EXTINF:-1,group-title="卫视台"" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
 http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",吉林卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
 http://219.150.217.47:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",江西卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
 http://219.150.217.47:6610/PLTV1/1200/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",辽宁卫视
+#EXTINF:-1,group-title="卫视台"http://epg.51zmt.top:8000/tb1/ws/liaoning.png,辽宁卫视
 http://219.150.217.47:6610/PLTV1/1120/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",内蒙古卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
 http://219.150.217.47:6610/PLTV1/1420/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",宁夏卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
 http://219.150.217.47:6610/PLTV1/1380/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",青海卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
 http://219.150.217.47:6610/PLTV1/1520/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",山西卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
 http://219.150.217.47:6610/PLTV1/1460/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",陕西卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
 http://219.150.217.47:6610/PLTV1/1140/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",四川卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
 http://219.150.217.47:6610/PLTV1/1260/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",天津卫视
+#EXTINF:-1,group-title="卫视台"http://epg.51zmt.top:8000/tb1/ws/tianjin.png,天津卫视
 http://219.150.217.47:6610/PLTV1/1300/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",西藏卫视
+#EXTINF:-1,group-title="卫视台"http://epg.51zmt.top:8000/tb1/ws/xizang.png,西藏卫视
 http://219.150.217.47:6610/PLTV1/1640/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",新疆卫视
+#EXTINF:-1,group-title="卫视台"http://epg.51zmt.top:8000/tb1/ws/xinjiang.png,新疆卫视
 http://219.150.217.47:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",云南卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
 http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
-#EXTINF:-1,group-title="卫视台",重庆卫视
+#EXTINF:-1,group-title="卫视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
 http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
 #EXTINF:-1,group-title="河南地方台",河南4K试验
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
