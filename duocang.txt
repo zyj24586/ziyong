@@ -25,6 +25,7 @@
 { "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "道长" },
 { "url": "https://xn--bjjb-rp5imh.v.nxog.top/apitv.php?id=1", "name": "装歌1" },
 { "url": "http://tv.nxog.top/m/", "name": "讴歌" },
+{ "url": "http://tvjuhe.mitetech.cn:5622/", "name": "网友3小时更新" },
 { "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "短剧接口" },
 { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿" },
 { "url": "https://xn--gjjg-rp5imh.v.nxog.top/apitv.php?id=2", "name": "装歌2" },
