@@ -9,7 +9,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 #EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
-#EXTINF:-1,group-title="中央台",CCTV3
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
 #EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8
@@ -67,9 +67,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 #EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
-#EXTINF:-1,group-title="中央台",CCTV4K
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png",CCTV4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
-#EXTINF:-1,group-title="中央台",CCTV4K
+#EXTINF:-1,group-title="中央台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png",CCTV4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 #EXTINF:-1,group-title="教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",CETV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
