@@ -4,6 +4,7 @@ CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227279/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227157/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227079/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227071/index.m3u8
+CCTV1,http://219.150.217.47:6610/PLTV2/2680/index.m3u8?icpid=dxrm1
 CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
 CCTV2,http://222.85.70.7/PLTV/88888888/224/3221227049/index.m3u8
 CCTV3,http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
@@ -149,6 +150,8 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 大美河南,http://222.85.70.7/PLTV/88888888/224/3221226979/index.m3u8
 大美河南,http://222.85.70.7/PLTV/88888888/224/3221227000/index.m3u8
 大美河南,http://219.150.217.47:6610/PLTV2/2200/index.m3u8?icpid=dxrm1
+大美河南,http://219.150.217.47:6610/PLTV2/2540/index.m3u8?icpid=dxrm1
+大美河南,http://219.150.217.47:6610/PLTV2/2700/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV1/560/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV1/680/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV1/880/index.m3u8?icpid=dxrm1
@@ -228,6 +231,8 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 信阳文旅,http://222.85.70.7/PLTV/88888888/224/3221226964/index.m3u8
 平桥,http://219.150.217.47:6610/PLTV2/2560/index.m3u8?icpid=dxrm1
 平桥,http://222.85.25.226/PLTV/88888888/224/3221226960/1.m3u8
+伊川综合,http://219.150.217.47:6610/PLTV2/2600/index.m3u8?icpid=dxrm1
+周口新闻,http://219.150.217.47:6610/PLTV2/2320/index.m3u8?icpid=dxrm1
 周口公共,http://219.150.217.47:6610/PLTV2/2340/index.m3u8?icpid=dxrm1
 周口公共,http://222.85.70.7/PLTV/88888888/224/3221226972/index.m3u8
 周口科教,http://222.85.70.7/PLTV/88888888/224/3221226956/index.m3u8
