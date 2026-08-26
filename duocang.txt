@@ -55,9 +55,4 @@
 { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米1" },
 //不能用{ "url": "https://zzzy.shop/tv/", "name": "小米2" },
 { "url": "https://www.tangsan.fun/tv/", "name": "小米4" },
-{ "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" }]}
-
-
-
-
-                 
+{ "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" }]}         
