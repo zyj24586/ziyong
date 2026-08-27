@@ -1,6 +1,7 @@
 央视频道,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV3,webview://https://yangshipin.cn/tv/home?pid=600001801
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
