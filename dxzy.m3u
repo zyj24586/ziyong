@@ -61,6 +61,8 @@ CCTV超高清,http://222.85.70.7/PLTV/88888888/224/3221227244/index.m3u8
 CETV1,http://123.160.30.14:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV1,http://222.85.70.7/PLTV/88888888/224/3221227034/index.m3u8
+CETV2,http://123.160.108.7:6610/PLTV1/190022/1.m3u8?icpid=dxrm1
+CETV4,http://123.160.108.7:6610/PLTV1/190023/1.m3u8?icpid=dxrm1
 CGTN,http://123.160.30.14:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
@@ -263,6 +265,8 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 平顶山新闻,http://123.160.30.14:6610/PLTV1/1900/index.m3u8?icpid=dxrm1
 平顶山城市,http://123.160.30.14:6610/PLTV1/1920/index.m3u8?icpid=dxrm1
 平顶山城市,http://219.150.217.47:6610/PLTV1/1920/index.m3u8?icpid=dxrm1
+平顶山教育,http://123.160.108.7:6610/PLTV1/190015/1.m3u8?icpid=dxrm1
+叶县,http://123.160.108.7:6610/PLTV1/190019/1.m3u8?icpid=dxrm1
 舞钢,http://219.150.217.47:6610/PLTV2/2620/index.m3u8?icpid=dxrm1
 舞钢新闻,http://222.85.70.7/PLTV/88888888/224/3221227194/index.m3u8
 郏县,http://219.150.217.47:6610/PLTV2/3910/index.m3u8?icpid=dxrm1
@@ -271,12 +275,15 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 安阳新闻,http://219.150.217.47:6610/PLTV1/1960/index.m3u8?icpid=dxrm1
 安阳文旅,http://123.160.30.14:6610/PLTV1/1980/index.m3u8?icpid=dxrm1
 安阳文旅,http://219.150.217.47:6610/PLTV1/1980/index.m3u8?icpid=dxrm1
+林州综合,http://123.160.108.7:6610/PLTV1/190058/1.m3u8?icpid=dxrm1
+汤阴综合,http://123.160.108.7:6610/PLTV1/190056/1.m3u8?icpid=dxrm1
 内黄,http://219.150.217.47:6610/PLTV2/2640/index.m3u8?icpid=dxrm1
 鹤壁新闻,http://123.160.30.14:6610/PLTV1/2000/index.m3u8?icpid=dxrm1
 鹤壁新闻,http://219.150.217.47:6610/PLTV1/2000/index.m3u8?icpid=dxrm1
 新乡新闻,http://219.150.217.47:6610/PLTV2/2020/index.m3u8?icpid=dxrm1
 新乡公共,http://219.150.217.47:6610/PLTV2/2040/index.m3u8?icpid=dxrm1
 新乡县,http://219.150.217.47:6610/PLTV2/2760/index.m3u8?icpid=dxrm1
+获嘉,http://123.160.108.7:6610/PLTV1/190017/1.m3u8?icpid=dxrm1
 封丘,http://219.150.217.47:6610/PLTV2/2740/index.m3u8?icpid=dxrm1
 焦作综合,http://219.150.217.47:6610/PLTV2/2060/index.m3u8?icpid=dxrm1
 焦作公共,http://219.150.217.47:6610/PLTV2/2080/index.m3u8?icpid=dxrm1
