@@ -37,8 +37,8 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/
 CCTV15,webview://https://tv.cctv.com/live/cctv15/
 CCTV16,webview://https://tv.cctv.com/live/cctv16/
 CCTV17,webview://https://tv.cctv.com/live/cctv17/
-CCTV4(欧),webview://https://tv.cctv.com/live/cctveurope/
-CCTV4(美),webview://https://tv.cctv.com/live/cctvamerica/
+CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/
+CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CGTN英语,webview://https://yangshipin.cn/tv/home?pid=600014550
 CGTN记录,webview://https://yangshipin.cn/tv/home?pid=600084781
 CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
