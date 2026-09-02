@@ -18,6 +18,9 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 CCTV5,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?fmt=ts2hls
+CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+CCTV5+,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
+CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?fmt=ts2hls
 CCTV6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
 CCTV6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
 CCTV6,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-6-HD-265-5M/G_CCTV-6-HD-265-5M.m3u8
@@ -51,10 +54,7 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fm
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 CCTV15,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 CCTV15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
-CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-CCTV5+,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
-CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?fmt=ts2hls
-CCTV16http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227532/index.m3u8
+CCTV16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227532/index.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 CCTV17,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
