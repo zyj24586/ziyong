@@ -1,11 +1,11 @@
 央视台,#genre#
 CCTV1,http://123.160.30.14:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+CCTV1,http://219.150.217.47:6610/PLTV2/2680/index.m3u8?icpid=dxrm1
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227279/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227157/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227079/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227071/index.m3u8
-CCTV1,http://219.150.217.47:6610/PLTV2/2680/index.m3u8?icpid=dxrm1
 CCTV2,http://123.160.30.14:6610/PLTV1/60/index.m3u8?icpid=dxrm1
 CCTV2,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
 CCTV2,http://222.85.70.7/PLTV/88888888/224/3221227049/index.m3u8
@@ -20,9 +20,9 @@ CCTV5,http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
 CCTV5,http://222.85.70.7/PLTV/88888888/224/3221227047/index.m3u8
 CCTV5+,http://123.160.30.14:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 CCTV5+,http://219.150.217.47:6610/PLTV2/3680/index.m3u8?icpid=dxrm1
+CCTV5+,http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 CCTV5+,http://222.85.70.7/PLTV/88888888/224/3221227111/index.m3u8
 CCTV5+,http://222.85.70.7/PLTV/88888888/224/3221227220/index.m3u8
-CCTV5+,http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 CCTV6,http://123.160.30.14:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 CCTV6,http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 CCTV6,http://222.85.70.7/PLTV/88888888/224/3221227046/index.m3u8
@@ -59,8 +59,8 @@ CCTV17,http://123.160.30.14:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 CCTV17,http://222.85.25.226/PLTV/88888888/224/3221227072/1.m3u8
 CCTV17,http://222.85.70.7/PLTV/88888888/224/3221227072/index.m3u8
-CCTV4K,http://222.85.70.7/PLTV/88888888/224/3221227244/index.m3u8
 CCTV4K,http://123.160.108.15:6610/PLTV1/190059/1.m3u8?
+CCTV4K,http://222.85.70.7/PLTV/88888888/224/3221227244/index.m3u8
 CETV1,http://123.160.30.14:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV1,http://222.85.70.7/PLTV/88888888/224/3221227034/index.m3u8
@@ -163,8 +163,8 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 4K频道,#genre#
 河南4K试验,http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 河南4K试验,http://222.85.70.7/PLTV/88888888/224/3221226954/index.m3u8
-北京卫视4K,http://222.85.70.7/PLTV/88888888/224/3221227108/index.m3u8
 北京卫视4K,http://123.160.108.15:6610/PLTV1/190057/1.m3u8?
+北京卫视4K,http://222.85.70.7/PLTV/88888888/224/3221227108/index.m3u8
 上海卫视4K,http://222.85.70.7/PLTV/88888888/224/3221227271/index.m3u8
 山东卫视4K,http://222.85.70.7/PLTV/88888888/224/3221227274/index.m3u8
 浙江卫视4K,http://222.85.70.7/PLTV/88888888/224/3221227275/index.m3u8
@@ -221,9 +221,6 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 大美河南,http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV2/2100/index.m3u8?icpid=dxrm1
-大美河南,http://222.85.70.7/PLTV/88888888/224/3221226979/index.m3u8
-大美河南,http://222.85.70.7/PLTV/88888888/224/3221227000/index.m3u8
-大美河南,http://219.150.217.47:6610/PLTV2/2200/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV2/2540/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV2/2700/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV1/560/index.m3u8?icpid=dxrm1
@@ -235,6 +232,9 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 大美河南,http://219.150.217.47:6610/PLTV1/1940/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV2/2460/index.m3u8?icpid=dxrm1
 大美河南,http://219.150.217.47:6610/PLTV2/2560/index.m3u8?icpid=dxrm1
+大美河南,http://219.150.217.47:6610/PLTV2/2200/index.m3u8?icpid=dxrm1
+大美河南,http://222.85.70.7/PLTV/88888888/224/3221226979/index.m3u8
+大美河南,http://222.85.70.7/PLTV/88888888/224/3221227000/index.m3u8
 郑州新闻,http://123.160.30.14:6610/PLTV1/1680/index.m3u8?icpid=dxrm1
 郑州新闻,http://219.150.217.47:6610/PLTV1/1680/index.m3u8?icpid=dxrm1
 郑州新闻,http://222.85.70.7/PLTV/88888888/224/3221227035/index.m3u8
@@ -277,7 +277,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 叶县,http://123.160.108.7:6610/PLTV1/190019/1.m3u8?icpid=dxrm1
 新安县,http://123.160.108.15:6610/PLTV1/190043/1.m3u8?
 舞钢,http://219.150.217.47:6610/PLTV2/2620/index.m3u8?icpid=dxrm1
-舞钢新闻,http://222.85.70.7/PLTV/88888888/224/3221227194/index.m3u8
+舞钢,http://222.85.70.7/PLTV/88888888/224/3221227194/index.m3u8
 郏县,http://219.150.217.47:6610/PLTV2/3910/index.m3u8?icpid=dxrm1
 郏县,http://222.85.70.7/PLTV/88888888/224/3221227212/index.m3u8
 安阳新闻,http://123.160.30.14:6610/PLTV1/1960/index.m3u8?icpid=dxrm1
