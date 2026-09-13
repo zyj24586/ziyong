@@ -1,6 +1,4 @@
 央视台,#genre#
-CCTV1,http://123.160.30.14:6610/PLTV1/40/index.m3u8?icpid=dxrm1
-CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV1,http://219.150.217.47:6610/PLTV2/2680/index.m3u8?icpid=dxrm1
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227279/index.m3u8
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227157/index.m3u8
@@ -235,6 +233,8 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 大美河南,http://219.150.217.47:6610/PLTV2/2200/index.m3u8?icpid=dxrm1
 大美河南,http://222.85.70.7/PLTV/88888888/224/3221226979/index.m3u8
 大美河南,http://222.85.70.7/PLTV/88888888/224/3221227000/index.m3u8
+大美河南,http://123.160.30.14:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+大美河南,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 郑州新闻,http://123.160.30.14:6610/PLTV1/1680/index.m3u8?icpid=dxrm1
 郑州新闻,http://219.150.217.47:6610/PLTV1/1680/index.m3u8?icpid=dxrm1
 郑州新闻,http://222.85.70.7/PLTV/88888888/224/3221227035/index.m3u8
