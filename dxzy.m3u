@@ -90,6 +90,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 广东卫视,http://219.150.217.47:6610/PLTV1/1040/index.m3u8?icpid=dxrm1
 广东卫视,http://222.85.70.7/PLTV/88888888/224/3221227033/index.m3u8
 深圳卫视,http://219.150.217.47:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
+深圳卫视,http://123.160.30.14:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
 深圳卫视,http://222.85.70.7/PLTV/88888888/224/3221227029/index.m3u8
 安徽卫视,http://123.160.30.14:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
 安徽卫视,http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
@@ -108,6 +109,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 广西卫视,http://219.150.217.47:6610/PLTV1/1440/index.m3u8?icpid=dxrm1
 广西卫视,http://222.85.70.7/PLTV/88888888/224/3221227045/index.m3u8
 贵州卫视,http://219.150.217.47:6610/PLTV1/1160/index.m3u8?icpid=dxrm1
+贵州卫视,http://123.160.30.14:6610/PLTV1/1160/index.m3u8?icpid=dxrm1
 贵州卫视,http://222.85.70.7/PLTV/88888888/224/3221227001/index.m3u8
 海南卫视,http://123.160.30.14:6610/PLTV1/1480/index.m3u8?icpid=dxrm1
 海南卫视,http://219.150.217.47:6610/PLTV1/1480/index.m3u8?icpid=dxrm1
@@ -119,6 +121,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 黑龙江卫视,http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
 黑龙江卫视,http://222.85.70.7/PLTV/88888888/224/3221227039/index.m3u8
 湖北卫视,http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
+湖北卫视,http://123.160.30.14:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
 湖北卫视,http://222.85.70.7/PLTV/88888888/224/3221227057/index.m3u8
 吉林卫视,http://123.160.30.14:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
 吉林卫视,http://219.150.217.47:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
@@ -130,6 +133,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 辽宁卫视,http://219.150.217.47:6610/PLTV1/1120/index.m3u8?icpid=dxrm1
 辽宁卫视,http://222.85.70.7/PLTV/88888888/224/3221227014/index.m3u8
 内蒙古卫视,http://219.150.217.47:6610/PLTV1/1420/index.m3u8?icpid=dxrm1
+内蒙古卫视,http://123.160.30.14:6610/PLTV1/1420/index.m3u8?icpid=dxrm1
 内蒙古卫视,http://222.85.70.7/PLTV/88888888/224/3221227048/index.m3u8
 宁夏卫视,http://123.160.30.14:6610/PLTV1/1380/index.m3u8?icpid=dxrm1
 宁夏卫视,http://219.150.217.47:6610/PLTV1/1380/index.m3u8?icpid=dxrm1
@@ -146,16 +150,19 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 四川卫视,http://219.150.217.47:6610/PLTV1/1260/index.m3u8?icpid=dxrm1
 四川卫视,http://222.85.70.7/PLTV/88888888/224/3221227026/index.m3u8
 天津卫视,http://219.150.217.47:6610/PLTV1/1300/index.m3u8?icpid=dxrm1
+天津卫视,http://123.160.30.14:6610/PLTV1/1300/index.m3u8?icpid=dxrm1
 天津卫视,http://222.85.70.7/PLTV/88888888/224/3221227054/index.m3u8
 西藏卫视,http://123.160.30.14:6610/PLTV1/1640/index.m3u8?icpid=dxrm1
 西藏卫视,http://219.150.217.47:6610/PLTV1/1640/index.m3u8?icpid=dxrm1
 西藏卫视,http://222.85.70.7/PLTV/88888888/224/3221227006/index.m3u8
 兵团卫视,http://123.160.108.15:6610/PLTV1/190036/1.m3u8?
 新疆卫视,http://219.150.217.47:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
+新疆卫视,http://123.160.30.14:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
 新疆卫视,http://222.85.70.7/PLTV/88888888/224/3221227009/index.m3u8
 云南卫视,http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
 云南卫视,http://222.85.70.7/PLTV/88888888/224/3221227051/index.m3u8
 重庆卫视,http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
+重庆卫视,http://123.160.30.14:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
 重庆卫视,http://222.85.70.7/PLTV/88888888/224/3221227025/index.m3u8
 上海卫视,http://222.85.70.7/PLTV/88888888/224/3221227020/index.m3u8
 4K频道,#genre#
@@ -194,6 +201,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 河南乡村,http://219.150.217.47:6610/PLTV1/780/index.m3u8?icpid=dxrm1
 河南乡村,http://222.85.70.7/PLTV/88888888/224/3221226986/index.m3u8
 河南武术,http://219.150.217.47:6610/PLTV1/860/index.m3u8?icpid=dxrm1
+河南武术,http://123.160.30.14:6610/PLTV1/860/index.m3u8?icpid=dxrm1
 河南武术,http://222.85.70.7/PLTV/88888888/224/3221227003/index.m3u8
 河南文物,http://123.160.30.14:6610/PLTV1/820/index.m3u8?icpid=dxrm1
 河南文物,http://219.150.217.47:6610/PLTV1/820/index.m3u8?icpid=dxrm1
