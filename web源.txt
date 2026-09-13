@@ -1,4 +1,6 @@
-央视频道,#genre#
+#EXTM3U
+# App built-in channels. Standard M3U entries can be copied into another playlist.
+央视频道1,#genre#
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV3,webview://https://yangshipin.cn/tv/home?pid=600001801
@@ -52,7 +54,7 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
-卫视频道,#genre#
+卫视频道1,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
