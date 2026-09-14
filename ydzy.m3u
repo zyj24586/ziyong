@@ -1,3 +1,5 @@
+#EXTM3U
+# App built-in channels. Standard M3U entries can be copied into another playlist.
 央视台,#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://charging-rh.ha.chinamobile.com/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8
