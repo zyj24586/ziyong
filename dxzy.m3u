@@ -1,4 +1,4 @@
-央视台,#genre#
+央视台1,#genre#
 CCTV1,http://222.85.70.7/PLTV/88888888/224/3221227279/index.m3u8
 CCTV1,http://123.160.30.14:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV1,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
@@ -69,7 +69,7 @@ CETV4,http://123.160.108.7:6610/PLTV1/190023/1.m3u8?icpid=dxrm1
 CGTN,http://123.160.30.14:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
 CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
-卫视台,#genre#
+卫视台1,#genre#
 河南卫视,http://123.160.30.14:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 河南卫视,http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 河南卫视,http://222.85.70.7/PLTV/88888888/224/3221226984/index.m3u8
@@ -167,7 +167,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 重庆卫视,http://123.160.30.14:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
 重庆卫视,http://222.85.70.7/PLTV/88888888/224/3221227025/index.m3u8
 上海卫视,http://222.85.70.7/PLTV/88888888/224/3221227020/index.m3u8
-4K频道,#genre#
+4K频道1,#genre#
 河南4K试验,http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 河南4K试验,http://222.85.70.7/PLTV/88888888/224/3221226954/index.m3u8
 北京卫视4K,http://123.160.108.15:6610/PLTV1/190057/1.m3u8?
@@ -380,7 +380,7 @@ CGTN,http://222.85.70.7/PLTV/88888888/224/3221227075/index.m3u8
 无法确定,http://123.160.108.15:6610/PLTV1/190018/1.m3u8?
 无法确定,http://123.160.108.15:6610/PLTV1/190042/1.m3u8?
 无法确定,http://123.160.108.15:6610/PLTV1/190053/1.m3u8?
-国家频道杂项,#genre#
+国家频道杂项1,#genre#
 卡酷少儿,http://123.160.30.14:6610/PLTV1/1580/index.m3u8?icpid=dxrm1
 卡酷少儿,http://219.150.217.47:6610/PLTV1/1580/index.m3u8?icpid=dxrm1
 卡酷少儿,http://222.85.70.7/PLTV/88888888/224/3221226992/index.m3u8
