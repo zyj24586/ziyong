@@ -1,0 +1,296 @@
+{
+  "spider": "https://raw.gitcode.com/suixin00/1/blobs/1d25facb3285d4053b80a7b005ff8e6732070561/XS.jar",
+  "warningText": "资源采集网络！仅自用无盈利！请勿传播牟利！否则责任自负！",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "账号每日解析次数有限,请勿扒取！",
+      "name": "秒看|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mk1080.top/",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "6c73543e2d4f350d9ec4ecbbb78b51b9a6cb7803f5067601108f9561f14c429b"
+      }
+    },
+    {
+      "key": "世界",
+      "name": "世界|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "魔方|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.douy32mf.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "剧圈",
+      "name": "剧圈|4K",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "咕噜",
+      "name": "咕噜|4K",
+      "type": 3,
+      "api": "csp_Gulu"
+    },
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰|4K",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "蓝鸟",
+      "name": "蓝鸟|4K",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "橘汁",
+      "name": "橘汁|4K",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.mxj.wylcjbxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.4",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "企鹅",
+      "name": "企鹅|4K",
+      "type": 3,
+      "api": "https://raw.gitcode.com/suixin00/1/blobs/233e08bbf1f94f8f3381d823135b9522ce7f2c6c/0.js",
+      "ext": "http://china77.hongdus.com/Q.js"
+    },
+    {
+      "key": "高清",
+      "name": "高清|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/5377b5d03e827f798ca8e3c23b216203.py"
+    },
+    {
+      "key": "多多",
+      "name": "多多|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/9b669f51d8b3a78a6aa952adf3ead625.py"
+    },
+    {
+      "key": "青麦",
+      "name": "青麦|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/2edea3bac9475b34605ba2a496180176.py"
+    },
+    {
+      "key": "木兮",
+      "name": "木兮|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e9849bde3a2946ad7a3da552319282ad.py"
+    },
+    {
+      "key": "不错",
+      "name": "不错|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py"
+    },
+    {
+      "key": "华谊",
+      "name": "华谊|4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/79df4eb7978127ca47d1ad9c248c23ff.py"
+    },
+    {
+      "key": "网盘",
+      "name": "网盘|4K",
+      "type": 4,
+      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
+    },
+    {
+      "key": "予初",
+      "name": "予初|4K",
+      "type": 4,
+      "api": "http://sy.xuntuyun.cn:20394/yuchu.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "xcm",
+      "name": "熊大|4K",
+      "type": 4,
+      "api": "http://sy.xuntuyun.cn:20394/ctyx.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "粉猪|4K",
+      "key": "AppV7Fz",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/81d7dc6d1ff76b573a55d844edbe9064879d66d2/AW.png",
+      "api": "csp_AppV7Amns",
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "咸鱼|4K",
+      "key": "AppV7Xy",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/81d7dc6d1ff76b573a55d844edbe9064879d66d2/AW.png",
+      "api": "csp_AppV7Amns",
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "太奇|4K",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/81d7dc6d1ff76b573a55d844edbe9064879d66d2/AW.png",
+      "api": "csp_AppV7Amns",
+      "ext": "AppV7Mtq"
+    },
+    {
+      "key": "用不了多久,请勿扒取",
+      "name": "临时|4K",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": "json",
+      "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "综艺",
+        "日韩剧",
+        "美剧",
+        "少儿"
+      ]
+    },
+    {
+      "name": "荐片",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/81d7dc6d1ff76b573a55d844edbe9064879d66d2/AW.png",
+      "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
+    },
+    {
+      "key": "瓜子",
+      "name": "瓜子",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "官方",
+      "name": "官方",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+    {
+      "key": "骚火",
+      "name": "骚火",
+      "type": 3,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "4kvm",
+      "name": "蓝光",
+      "type": 3,
+      "api": "http://china77.hongdus.com/4kvm.js"
+    },
+    {
+      "key": "雪落",
+      "name": "雪落",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/5d4c38d73b9571f32ab834d25d984bea.py"
+    },
+    {
+      "key": "guoguo",
+      "name": "果果|短剧",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/9fabc7ec937783445d35f0a312751a4e25544c82/XD.jar",
+      "api": "csp_HongGuo"
+    },
+    {
+      "key": "关注",
+      "name": "💖关注💖",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "ext": "http://china77.hongdus.com/gz.txt"
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "蓝光",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    }
+  ]
+}
