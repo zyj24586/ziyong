@@ -25,7 +25,8 @@
 //{ "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/老刘备.json", "name": "老刘备" },
 { "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/肥猫.json", "name": "肥猫" },
 { "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/菜妮丝.json", "name": "菜妮丝" },
-{ "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/菠菜.json", "name": "菠菜" },
+//{ "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/菠菜.json", "name": "菠菜" },
+{ "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/菠菜园.json", "name": "菠菜园" },
 { "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/长青.json", "name": "长青" },
 { "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/饭太硬.json", "name": "饭太硬" },
 { "url": "https://gitee.com/willow-drifting-wind/iptv/raw/master/duocang/香雅情.json", "name": "香雅情" }]}         
