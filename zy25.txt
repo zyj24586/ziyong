@@ -1,4 +1,5 @@
 {
+"spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
   "sites": [
     {
       "key": "非凡",
@@ -320,33 +321,6 @@
       "name": "789资源┃刺桐",
       "type": 1,
       "api": "http://www.caiji.cyou/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "辣椒資源",
-      "name": "🦋 辣椒資源｜🔞",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "番号资源",
-      "name": "🦋 番号资源｜🔞",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Sexnguon",
-      "name": "🔞Sexnguon",
-      "type": 1,
-      "api": "http://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
