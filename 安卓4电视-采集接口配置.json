@@ -1,0 +1,176 @@
+{
+  "spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
+  "sites": [
+    {
+      "key": "maoyan",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "https://www.maoyanzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tyys",
+      "name": "天涯影视",
+      "type": 1,
+      "api": "https://tyyszy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "http://www.ffzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzzy",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://www.lzzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "niuniu",
+      "name": "牛牛资源",
+      "type": 1,
+      "api": "https://niuniuzy6.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼资源",
+      "type": 1,
+      "api": "https://suonizy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "shandian",
+      "name": "闪电资源",
+      "type": 1,
+      "api": "https://shandianzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "okzy",
+      "name": "OK资源",
+      "type": 1,
+      "api": "https://okzyw.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaiche",
+      "name": "快车资源",
+      "type": 1,
+      "api": "https://kuaichezy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuida",
+      "name": "最大资源",
+      "type": 1,
+      "api": "https://www.zuidazy.co/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ruyi",
+      "name": "如意资源",
+      "type": 1,
+      "api": "https://www.ryzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "douban",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://dbzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "http://www.haohuazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dytt",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://dyttzyw.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jisu",
+      "name": "极速资源",
+      "type": 1,
+      "api": "https://www.jisuzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subo",
+      "name": "速播资源",
+      "type": 1,
+      "api": "https://www.subozy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baidu",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://bdzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aiqiyi",
+      "name": "爱奇艺资源",
+      "type": 1,
+      "api": "https://www.iqiyiyi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aikun",
+      "name": "爱坤资源",
+      "type": 1,
+      "api": "https://www.ikunzy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
