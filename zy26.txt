@@ -2,6 +2,14 @@
   "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/feimao.jar",
   "sites": [
     {
+                    "key": "豆瓣",
+                                "name": "访问网站【api.starlink.fan】获取更多接口",
+                                            "type": 3,
+                                                        "api": "csp_Douban",
+                                                                    "searchable": 0
+    },
+    }
+    {
       "key": "ffzy",
       "name": "非凡资源",
       "type": 1,
