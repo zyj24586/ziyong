@@ -8,7 +8,7 @@
                                                         "api": "csp_Douban",
                                                                     "searchable": 0
     },
-    }
+
     {
       "key": "ffzy",
       "name": "非凡资源",
