@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/spider.jpg",
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/feimao.jar",
   "sites": [                                                                
     {
       "key": "ffzy",
