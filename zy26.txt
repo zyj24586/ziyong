@@ -1,7 +1,6 @@
 {
-  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/feimao.jar",
-  "sites": [
-                                                                    
+  "spider": "https://127.0.0.1/",
+  "sites": [                                                                
     {
       "key": "ffzy",
       "name": "非凡资源",
