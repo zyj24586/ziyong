@@ -207,15 +207,6 @@
     "quickSearch": 1,
     "filterable": 1
   },
-    {
-    "key": "aidan",
-    "name": "爱蛋资源",
-    "type": 1,
-    "api": "https://lovedan.net/api.php/provide/vod",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
       {
       "key": "hongniu",
       "name": "红牛",
