@@ -1,0 +1,740 @@
+{
+  "sites": [
+    {
+      "key": "Notice",
+      "name": "柳飘风修改的源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","理论片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片","电影解说","预告片","足球"
+      ],
+    },
+    {
+      "key": "PanConfigCenter",
+      "name": "网盘配置",
+      "type": 3,
+      "api": "csp_PanConfigGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "MyPan",
+      "name": "本地云盘",
+      "type": 3,
+      "api": "csp_MyPanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+        {
+      "key": "建安采集",
+      "name": "154建安",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小乐",
+      "name": "183933小乐星源",
+      "type": 1,
+      "api": "https://xy.183933.xyz/php/ls.php/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+    "key": "360资源",
+    "name": "360资源",
+    "type": 1,
+    "api": "https://360zy.com/api.php/provide/vod/at/json/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+    "key": "百度",
+    "name": "api百度资源",
+    "type": 1,
+    "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+      "key": "tv_back-023_百度",
+      "name": "b百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","欧美剧","韩剧","日剧","港澳剧","台湾剧","泰剧","其他剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画电影","体育赛事","ai短剧","伦理"
+      ]
+    },
+        {
+    "key": "baofeng",
+    "name": "b暴风资源",
+    "type": 1,
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+    {
+      "key": "dytt",
+      "name": "d电影天堂",
+      "type": 1,
+      "api": "http://dyttzyw.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "MagnetDongGua",
+      "name": "d冬瓜",
+      "type": 1,
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["剧情片","爱情片","喜剧片","恐怖片","科幻片","战争片","惊悚片","国产剧","港台剧","欧美剧","日剧","动画片","纪录片","韩剧","泰剧","国产动漫","日本动漫","欧美动漫","动作片","犯罪片","奇幻片","海外动漫","海外剧"
+      ],
+    },
+        {
+      "key": "MagnetFeiKuai",
+      "name": "f飞快",
+      "type": 1,
+      "api": "https://feikuai.in/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["喜剧片","动作片","科幻片","爱情片","战争片","恐怖片","剧情片","内地剧","港台剧","日韩剧","欧美剧","大陆综艺","港台综艺","欧美综艺","日韩综艺","大陆动漫","港台动漫","日韩动漫","欧美动漫","其它动漫","其它","其它剧","记录"
+      ],
+    },
+    {
+      "key": "ffzy",
+      "name": "f非凡资源",
+      "type": 1,
+      "api": "http://www.ffzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "guangsu2",
+      "name": "g光速HTTP",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "h豪华资源",
+      "type": 1,
+      "api": "http://www.haohuazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "豪华2",
+    "name": "h豪华资源无界",
+    "type": 1,
+    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+          {
+      "key": "hongniu",
+      "name": "h红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "huya",
+    "name": "h虎牙资源",
+    "type": 1,
+    "api": "https://www.huyaapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+            {
+      "key": "aikun",
+      "name": "i爱坤资源",
+      "type": 1,
+      "api": "https://www.ikunzy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "IQY",
+      "name": "i爱奇",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+       {
+      "key": "jisu",
+      "name": "j极速资源",
+      "type": 1,
+      "api": "https://www.jisuzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "jinying",
+    "name": "j金鹰点播",
+    "type": 1,
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+      "key": "极速资源",
+      "name": "j极速",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "金鹰2",
+      "name": "j金鹰采集",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jiangyu",
+      "name": "j鲸鱼资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "lezi2",
+      "name": "l乐子HTTP",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "aidan",
+    "name": "l拉乌蛋资源",
+    "type": 1,
+    "api": "https://lovedan.net/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+    "key": "影视工厂",
+    "name": "LZ影视工厂",
+    "type": 1,
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+      "key": "MTzy",
+      "name": "m茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "maoyan",
+      "name": "m猫眼资源",
+      "type": 1,
+      "api": "https://www.maoyanzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "modu",
+    "name": "m魔都资源",
+    "type": 1,
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+     {
+      "key": "MDdm",
+      "name": "m魔都资源2",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "piaoling",
+    "name": "p飘零资源",
+    "type": 1,
+    "api": "https://p2100.net/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+      "key": "ruyi",
+      "name": "r如意资源",
+      "type": 1,
+      "api": "https://www.ryzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+    "key": "如意影视",
+    "name": "r如意影视",
+    "type": 1,
+    "api": "https://cj.rytvapi.com/api.php/provide/vod/from/rym3u8/at/json/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+      "key": "闪电资源",
+      "name": "s闪电",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","篮球","足球","预告片","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","科普学习","擦边短剧","漫剧"
+      ]
+    },
+    {
+      "key": "subo",
+      "name": "s速播资源",
+      "type": 1,
+      "api": "https://www.subozy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+       {
+      "key": "MagnetSuBo",
+      "name": "s速播",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","大陆剧","台湾剧","韩剧","美剧","港澳剧","日剧","泰剧","伦理片","中国动漫","日本动漫","欧美动漫","预告片","足球","篮球","台球","其他赛事","大陆综艺","日韩综艺","港台综艺","欧美综艺","古装仙侠"
+      ],
+    },
+        {
+      "key": "SNzy",
+      "name": "s索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","篮球","足球","预告片","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","擦边短剧","科普学习","漫剧","儿童儿歌"
+      ]
+    },
+        {
+      "key": "天涯采集",
+      "name": "t天涯",
+      "type": 1,
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩国剧","日本剧","港台剧","台湾剧","泰国剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","伦理","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","ai短剧"
+      ]
+    },
+       {
+      "key": "MagnetXiGua",
+      "name": "x西瓜",
+      "type": 1,
+      "api": "https://xgzy.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","伦理片","动画片","都市脑洞","闪婚离婚","现代言情","反转爽文"
+      ],
+    },
+        {
+    "key": "uku88",
+    "name": "U酷资源88",
+    "type": 1,
+    "api": "https://api.ukuapi88.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+    "key": "三八资源",
+    "name": "vod三八资源",
+    "type": 1,
+    "api": "https://vod38.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+        {
+    "key": "wujin",
+    "name": "w无尽资源",
+    "type": 1,
+    "api": "https://api.wujinapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+    {
+      "key": "xinlang",
+      "name": "x新浪资源",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuida",
+      "name": "z最大资源",
+      "type": 1,
+      "api": "https://www.zuidazy.co/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "最大资源",
+      "name": "z最大资源┃刺桐",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  {
+      "key": "zuida2",
+      "name": "z最大资源",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
+      "key": "zuidame",
+      "name": "z最大点播",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
+      "key": "AnimeAiMoDuGuard",
+      "name": "动漫001魔都",
+      "type": 3,
+      "api": "csp_AnimeAiMoDuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AnimeXiFanGuard",
+      "name": "动漫002稀饭",
+      "type": 3,
+      "api": "csp_AnimeXiFanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AnimeCiYuanChengGuard",
+      "name": "动漫003次元",
+      "type": 3,
+      "api": "csp_AnimeCiYuanChengGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AnimeAiFanShuGuard",
+      "name": "动漫004番薯",
+      "type": 3,
+      "api": "csp_AnimeAiFanShuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AnimeJiongCiYuanGuard",
+      "name": "动漫005囧次",
+      "type": 3,
+      "api": "csp_AnimeJiongCiYuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicAi163Guard",
+      "name": "音乐001网易",
+      "type": 3,
+      "api": "csp_MusicAi163Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicAiKuWoGuard",
+      "name": "音乐002酷我",
+      "type": 3,
+      "api": "csp_MusicAiKuWoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicAiKuWoaGuard",
+      "name": "音乐003酷我2",
+      "type": 3,
+      "api": "csp_MusicAiKuWoaGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicAiQingTingGuard",
+      "name": "音乐004蜻蜓",
+      "type": 3,
+      "api": "csp_MusicAiQingTingGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MusicAiIKtvGuard",
+      "name": "音乐005KTV",
+      "type": 3,
+      "api": "csp_MusicAiIKtvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "花卷",
+      "name": "4k001花卷",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "4k002玩偶",
+      "type": 3,
+      "api": "csp_AiNewWoggGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewGuanYing",
+      "name": "4k003观影",
+      "type": 3,
+      "api": "csp_AiNewGuanYingGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiQwMkv",
+      "name": "4k004七味",
+      "type": 3,
+      "api": "csp_AiQwMkvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewPianKu",
+      "name": "4k005盘库",
+      "type": 3,
+      "api": "csp_AiNewPianKuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewHuBan",
+      "name": "4k006虎斑",
+      "type": 3,
+      "api": "csp_AiNewHuBanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewMuOu",
+      "name": "4k007木偶",
+      "type": 3,
+      "api": "csp_AiNewMuOuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewDuoDuo",
+      "name": "4k008多多",
+      "type": 3,
+      "api": "csp_AiNewDuoDuoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewJuTou",
+      "name": "4k009剧透",
+      "type": 3,
+      "api": "csp_AiNewJuTouGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiNewLibvio",
+      "name": "4k010立播",
+      "type": 3,
+      "api": "csp_AiNewLibvioGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "原盘",
+      "name": "4k011原盘",
+      "type": 3,
+      "api": "csp_AiNewZhiNan4KGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蜗牛",
+      "name": "4k012蜗牛",
+      "type": 3,
+      "api": "csp_AiNewWoNiu4KGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AiPan1Me",
+      "name": "4k013盘迷",
+      "type": 3,
+      "api": "csp_AiPan1MeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "EduSong",
+      "name": "教育001儿歌",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": ["儿童儿歌"
+      ]
+    },
+    {
+      "key": "EduKePu",
+      "name": "教育002科普",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["科普学习"
+      ]
+    },
+    {
+      "key": "BiliYs",
+      "name": "B站001影视",
+      "type": 3,
+      "api": "csp_BiliYsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "8090",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "M3u8TV",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "CK",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "77",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
+    },
+    {
+      "name": "XY",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url="
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "ikun",
+      "type": 0,
+      "url": "https://jx.hls.one/?url="
+    }
+  ],
+  "lives": [],
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/4kjson.jar"
+}
