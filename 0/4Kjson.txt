@@ -14,7 +14,7 @@
     },
     {
       "key": "PanConfigCenter",
-      "name": "❁网盘℗配置❁",
+      "name": "网盘配置",
       "type": 3,
       "api": "csp_PanConfigGuard",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key": "MyPan",
-      "name": "❁本地℗云盘❁",
+      "name": "本地云盘",
       "type": 3,
       "api": "csp_MyPanGuard",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "4K采集",
-      "name": "❁直链001℗4K❁",
+      "name": "014K",
       "type": 1,
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 0,
@@ -43,7 +43,7 @@
     },
     {
       "key": "PLzy",
-      "name": "❁直链002℗飘零❁",
+      "name": "02飘零",
       "type": 1,
       "api": "https://p2100.net/api.php/provide/vod",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "MDdm",
-      "name": "❁直链003℗魔都❁",
+      "name": "03魔都",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "searchable": 1,
@@ -61,7 +61,7 @@
     },
     {
       "key": "IQY",
-      "name": "❁直链004℗爱奇❁",
+      "name": "04爱奇",
       "type": 1,
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -70,7 +70,7 @@
     },
     {
       "key": "BDzy",
-      "name": "❁直链005℗BD❁",
+      "name": "05BD",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "MTzy",
-      "name": "❁直链006℗茅台❁",
+      "name": "06茅台",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 0,
@@ -90,7 +90,7 @@
     },
     {
       "key": "SNzy",
-      "name": "❁直链007℗索尼❁",
+      "name": "07索尼",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "tv_back-024_暴風",
-      "name": "❁直链008℗暴風❁",
+      "name": "08暴風",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
     {
       "key": "暴風",
-      "name": "❁直链009℗暴風(备)❁",
+      "name": "09暴風(备)",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "tv_back-023_量子资源",
-      "name": "❁直链010℗量子❁",
+      "name": "10量子",
       "type": 1,
       "api": "https://lzizy1.com/api.php/provide/vod",
       "searchable": 0,
@@ -128,7 +128,7 @@
     },
     {
       "key": "量子",
-      "name": "❁直链011℗量子(备)❁",
+      "name": "11量子(备)",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -137,7 +137,7 @@
     },
     {
       "key": "量子资源",
-      "name": "❁直链012℗量子(备2)❁",
+      "name": "12量子(备2)",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -146,7 +146,7 @@
     },
     {
       "key": "tv_back-023_csp_SNzy",
-      "name": "❁直链013℗索尼(备)❁",
+      "name": "13索尼(备)",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "❁直链014℗索尼(备2)❁",
+      "name": "14索尼(备2)",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
       "searchable": 1,
@@ -168,7 +168,7 @@
     },
     {
       "key": "闪电资源",
-      "name": "❁直链015℗闪电❁",
+      "name": "15闪电",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod",
       "searchable": 0,
@@ -179,7 +179,7 @@
     },
     {
       "key": "新浪资源",
-      "name": "❁直链016℗新浪❁",
+      "name": "16新浪",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "searchable": 1,
@@ -188,7 +188,7 @@
     },
     {
       "key": "zy_金鹰影视点主页切换源",
-      "name": "❁直链017℗金鹰❁",
+      "name": "17金鹰",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod",
       "searchable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "光速资源",
-      "name": "❁直链018℗光速❁",
+      "name": "18光速",
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -206,7 +206,7 @@
     },
     {
       "key": "光速资源",
-      "name": "❁直链019℗光速(备)❁",
+      "name": "19光速(备)",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -215,7 +215,7 @@
     },
     {
       "key": "a红牛资源",
-      "name": "❁直链020℗红牛❁",
+      "name": "20红牛",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "searchable": 1,
@@ -226,7 +226,7 @@
     },
     {
       "key": "tv_back-023_火狐",
-      "name": "❁直链021℗火狐❁",
+      "name": "21火狐",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -235,7 +235,7 @@
     },
     {
       "key": "xml_火狐",
-      "name": "❁直链022℗火狐(备)❁",
+      "name": "22火狐(备)",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -244,7 +244,7 @@
     },
     {
       "key": "tv_back-023_虎牙",
-      "name": "❁直链023℗虎牙❁",
+      "name": "23虎牙",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -253,7 +253,7 @@
     },
     {
       "key": "极速资源",
-      "name": "❁直链024℗极速❁",
+      "name": "24极速",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -262,7 +262,7 @@
     },
     {
       "key": "a极速资源",
-      "name": "❁直链025℗极速(备)❁",
+      "name": "25极速(备)",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -271,7 +271,7 @@
     },
     {
       "key": "tv_back-026_feifan",
-      "name": "❁直链026℗非凡❁",
+      "name": "26非凡",
       "type": 1,
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
@@ -280,7 +280,7 @@
     },
     {
       "key": "非凡",
-      "name": "❁直链027℗非凡(备)❁",
+      "name": "27非凡(备)",
       "type": 1,
       "api": "http://ffzy.tv/api.php/provide/vod",
       "searchable": 1,
@@ -289,7 +289,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "❁直链028℗非凡(备2)❁",
+      "name": "28非凡(备2)",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -298,7 +298,7 @@
     },
     {
       "key": "电影天堂",
-      "name": "❁直链029℗天堂❁",
+      "name": "29天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "电影天堂",
-      "name": "❁直链030℗天堂(备)❁",
+      "name": "30天堂(备)",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8",
       "searchable": 1,
@@ -316,7 +316,7 @@
     },
     {
       "key": "tv_back-024_360",
-      "name": "❁直链031℗360❁",
+      "name": "31360",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -325,7 +325,7 @@
     },
     {
       "key": "蚂钱蚁",
-      "name": "❁直链032℗玛丽❁",
+      "name": "32玛丽",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -334,7 +334,7 @@
     },
     {
       "key": "天涯采集",
-      "name": "❁直链033℗天涯❁",
+      "name": "33天涯",
       "type": 1,
       "api": "http://tyyszy.com/api.php/provide/vod",
       "searchable": 0,
@@ -345,7 +345,7 @@
     },
     {
       "key": "建安采集",
-      "name": "❁直链034℗建安❁",
+      "name": "34建安",
       "type": 1,
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "searchable": 0,
@@ -354,7 +354,7 @@
     },
     {
       "key": "tv_back-023_百度",
-      "name": "❁直链035℗百度❁",
+      "name": "35百度",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -365,7 +365,7 @@
     },
     {
       "key": "MagnetFeiKuai",
-      "name": "❁直链036℗飞快❁",
+      "name": "36飞快",
       "type": 1,
       "api": "https://feikuai.in/api.php/provide/vod",
       "searchable": 1,
@@ -377,7 +377,7 @@
     },
     {
       "key": "MagnetDongGua",
-      "name": "❁直链037℗冬瓜❁",
+      "name": "37冬瓜",
       "type": 1,
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -389,7 +389,7 @@
     },
     {
       "key": "MagnetXiGua",
-      "name": "❁直链038℗西瓜❁",
+      "name": "38西瓜",
       "type": 1,
       "api": "https://xgzy.tv/api.php/provide/vod",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "MagnetUKu",
-      "name": "❁直链039℗酷哟❁",
+      "name": "39酷哟",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "searchable": 1,
@@ -413,7 +413,7 @@
     },
     {
       "key": "MagnetSuBo",
-      "name": "❁直链040℗速播❁",
+      "name": "40速播",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
       "searchable": 1,
@@ -425,7 +425,7 @@
     },
     {
       "key": "MagnetZuiDa",
-      "name": "❁直链041℗最大❁",
+      "name": "41最大",
       "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -437,7 +437,7 @@
     },
     {
       "key": "MagnetMaoYan",
-      "name": "❁直链042℗猫眼❁",
+      "name": "42猫眼",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "searchable": 1,
@@ -449,7 +449,7 @@
     },
     {
       "key": "AnimeAiMoDuGuard",
-      "name": "❁动漫001℗魔都❁",
+      "name": "动漫001魔都",
       "type": 3,
       "api": "csp_AnimeAiMoDuGuard",
       "searchable": 1,
@@ -458,7 +458,7 @@
     },
     {
       "key": "AnimeXiFanGuard",
-      "name": "❁动漫002℗稀饭❁",
+      "name": "动漫002稀饭",
       "type": 3,
       "api": "csp_AnimeXiFanGuard",
       "searchable": 1,
@@ -467,7 +467,7 @@
     },
     {
       "key": "AnimeCiYuanChengGuard",
-      "name": "❁动漫003℗次元❁",
+      "name": "动漫003次元",
       "type": 3,
       "api": "csp_AnimeCiYuanChengGuard",
       "searchable": 1,
@@ -476,7 +476,7 @@
     },
     {
       "key": "AnimeAiFanShuGuard",
-      "name": "❁动漫004℗番薯❁",
+      "name": "动漫004番薯",
       "type": 3,
       "api": "csp_AnimeAiFanShuGuard",
       "searchable": 1,
@@ -485,7 +485,7 @@
     },
     {
       "key": "AnimeJiongCiYuanGuard",
-      "name": "❁动漫005℗囧次❁",
+      "name": "动漫005囧次",
       "type": 3,
       "api": "csp_AnimeJiongCiYuanGuard",
       "searchable": 1,
@@ -494,7 +494,7 @@
     },
     {
       "key": "MusicAi163Guard",
-      "name": "❁音乐001℗网易❁",
+      "name": "音乐001网易",
       "type": 3,
       "api": "csp_MusicAi163Guard",
       "searchable": 1,
@@ -503,7 +503,7 @@
     },
     {
       "key": "MusicAiKuWoGuard",
-      "name": "❁音乐002℗酷我❁",
+      "name": "音乐002酷我",
       "type": 3,
       "api": "csp_MusicAiKuWoGuard",
       "searchable": 1,
@@ -512,7 +512,7 @@
     },
     {
       "key": "MusicAiKuWoaGuard",
-      "name": "❁音乐003℗酷我2❁",
+      "name": "音乐003酷我2",
       "type": 3,
       "api": "csp_MusicAiKuWoaGuard",
       "searchable": 1,
@@ -521,7 +521,7 @@
     },
     {
       "key": "MusicAiQingTingGuard",
-      "name": "❁音乐004℗蜻蜓❁",
+      "name": "音乐004蜻蜓",
       "type": 3,
       "api": "csp_MusicAiQingTingGuard",
       "searchable": 1,
@@ -530,7 +530,7 @@
     },
     {
       "key": "MusicAiIKtvGuard",
-      "name": "❁音乐005℗KTV❁",
+      "name": "音乐005KTV",
       "type": 3,
       "api": "csp_MusicAiIKtvGuard",
       "searchable": 1,
@@ -539,7 +539,7 @@
     },
     {
       "key": "花卷",
-      "name": "❁4k001℗花卷❁",
+      "name": "4k001花卷",
       "type": 3,
       "api": "csp_AiNewHuaJuanGuard",
       "searchable": 1,
@@ -548,7 +548,7 @@
     },
     {
       "key": "玩偶",
-      "name": "❁4k002℗玩偶❁",
+      "name": "4k002玩偶",
       "type": 3,
       "api": "csp_AiNewWoggGuard",
       "searchable": 1,
@@ -557,7 +557,7 @@
     },
     {
       "key": "AiNewGuanYing",
-      "name": "❁4k003℗观影❁",
+      "name": "4k003观影",
       "type": 3,
       "api": "csp_AiNewGuanYingGuard",
       "searchable": 1,
@@ -566,7 +566,7 @@
     },
     {
       "key": "AiQwMkv",
-      "name": "❁4k004℗七味❁",
+      "name": "4k004七味",
       "type": 3,
       "api": "csp_AiQwMkvGuard",
       "searchable": 1,
@@ -575,7 +575,7 @@
     },
     {
       "key": "AiNewPianKu",
-      "name": "❁4k005℗盘库❁",
+      "name": "4k005盘库",
       "type": 3,
       "api": "csp_AiNewPianKuGuard",
       "searchable": 1,
@@ -584,7 +584,7 @@
     },
     {
       "key": "AiNewHuBan",
-      "name": "❁4k006℗虎斑❁",
+      "name": "4k006虎斑",
       "type": 3,
       "api": "csp_AiNewHuBanGuard",
       "searchable": 1,
@@ -593,7 +593,7 @@
     },
     {
       "key": "AiNewMuOu",
-      "name": "❁4k007℗木偶❁",
+      "name": "4k007木偶",
       "type": 3,
       "api": "csp_AiNewMuOuGuard",
       "searchable": 1,
@@ -602,7 +602,7 @@
     },
     {
       "key": "AiNewDuoDuo",
-      "name": "❁4k008℗多多❁",
+      "name": "4k008多多",
       "type": 3,
       "api": "csp_AiNewDuoDuoGuard",
       "searchable": 1,
@@ -611,7 +611,7 @@
     },
     {
       "key": "AiNewJuTou",
-      "name": "❁4k009℗剧透❁",
+      "name": "4k009剧透",
       "type": 3,
       "api": "csp_AiNewJuTouGuard",
       "searchable": 1,
@@ -620,7 +620,7 @@
     },
     {
       "key": "AiNewLibvio",
-      "name": "❁4k010℗立播❁",
+      "name": "4k010立播",
       "type": 3,
       "api": "csp_AiNewLibvioGuard",
       "searchable": 1,
@@ -629,7 +629,7 @@
     },
     {
       "key": "原盘",
-      "name": "❁4k011℗原盘❁",
+      "name": "4k011原盘",
       "type": 3,
       "api": "csp_AiNewZhiNan4KGuard",
       "searchable": 1,
@@ -638,7 +638,7 @@
     },
     {
       "key": "蜗牛",
-      "name": "❁4k012℗蜗牛❁",
+      "name": "4k012蜗牛",
       "type": 3,
       "api": "csp_AiNewWoNiu4KGuard",
       "searchable": 1,
@@ -647,7 +647,7 @@
     },
     {
       "key": "AiPan1Me",
-      "name": "❁4k013℗盘迷❁",
+      "name": "4k013盘迷",
       "type": 3,
       "api": "csp_AiPan1MeGuard",
       "searchable": 1,
@@ -656,7 +656,7 @@
     },
     {
       "key": "EduSong",
-      "name": "❁教育001℗儿歌❁",
+      "name": "教育001儿歌",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 0,
@@ -667,7 +667,7 @@
     },
     {
       "key": "EduKePu",
-      "name": "❁教育002℗科普❁",
+      "name": "教育002科普",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 0,
@@ -678,7 +678,7 @@
     },
     {
       "key": "BiliYs",
-      "name": "❁B站001℗影视❁",
+      "name": "B站001影视",
       "type": 3,
       "api": "csp_BiliYsGuard",
       "searchable": 1,
