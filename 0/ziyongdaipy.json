@@ -431,7 +431,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-      {"key": "py1","name": "红果","type": 3, "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果.py"} ,   
+//      {"key": "py1","name": "红果","type": 3, "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果.py"} ,   
       {"key": "py2","name": "红果短剧能看全集修复版","type": 3, "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果短剧能看全集_修复版.py"}     
   ]
 }
