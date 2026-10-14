@@ -716,5 +716,5 @@
     }
   ],
   "lives": [],
-  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/4kjson.jar"
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/4kjson.png"
 }
