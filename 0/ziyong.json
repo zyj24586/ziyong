@@ -29,15 +29,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-        {
-      "key": "建安采集",
-      "name": "154建安",
-      "type": 1,
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "小乐",
       "name": "183933小乐星源",
@@ -697,6 +688,7 @@
       "quickSearch": 1,
       "filterable": 1
     }
+//         {"key": "建安采集", "name": "15建安","type": 1, "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
   ],
   "parses": [
     {
