@@ -38,6 +38,7 @@
 {"key":"SNzy","name":"s索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天涯采集","name":"t天涯","type":1,"api":"http://tyyszy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MagnetXiGua","name":"x西瓜","type":1,"api":"https://xgzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"优质","name":"y优质","type":1,"api":"https://api.yyzy-tv.vip/inc/apijson.php/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"uku88","name":"U酷","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"三八资源","name":"vod三八","type":1,"api":"https://vod38.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"wujin","name":"w无尽","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
