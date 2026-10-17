@@ -360,5 +360,9 @@
     }
   ],
   "lives": [],
+  "thread_limit": 6,
+"vip_thread_limit": 6,
+"quark_thread_limit": 6,
+"quark_vip_thread_limit": 6,
   "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/JAR/4kjson.jar"
 }
