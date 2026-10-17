@@ -17,7 +17,7 @@
 {"key":"虎牙","name":"h虎牙","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱坤","name":"i爱坤","type":1,"api":"https://www.ikunzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱奇","name":"i爱奇","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"极速1,"name":"j极速","type":1,"api":"https://www.jisuzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"极速1","name":"j极速","type":1,"api":"https://www.jisuzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰1","name":"j金鹰","type":1,"api":"https://jinyingzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速2","name":"j极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰2","name":"j金鹰2","type":1,"api":"https://jyzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
