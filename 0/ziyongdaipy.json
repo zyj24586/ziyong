@@ -4,6 +4,7 @@
 {"key":"百度","name":"a百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"tv_back-023_百度","name":"b百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"baofeng","name":"b暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"刺桐资源","name":"c刺桐","type":1,"api":"http://pg.cttv.vip/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dytt","name":"d电影","type":1,"api":"http://dyttzyw.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MagnetDongGua","name":"d冬瓜","type":1,"api":"https://cdn.dzzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MagnetFeiKuai","name":"f飞快","type":1,"api":"https://feikuai.in/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
