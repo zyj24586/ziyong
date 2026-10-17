@@ -20,6 +20,7 @@
 {"key":"jinying","name":"j金鹰","type":1,"api":"https://jinyingzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极速资源","name":"j极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金鹰2","name":"j金鹰2","type":1,"api":"https://jyzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"金鹰3","name":"j金鹰3","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"jiangyu","name":"j鲸鱼","type":1,"api":"https://jyzyapi.com/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"lezi2","name":"l乐子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aidan","name":"l拉乌","type":1,"api":"https://lovedan.net/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
