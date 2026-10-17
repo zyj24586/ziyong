@@ -6,7 +6,7 @@
 {"key":"暴风","name":"b暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"刺桐","name":"c刺桐","type":1,"api":"http://pg.cttv.vip/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"电影天堂","name":"d电影","type":1,"api":"http://dyttzyw.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"飞飞","name":"d电子","type":1,"api":"https://cdn.dzzyapi.com/api.php/provide/vod/at/xmlsea/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"飞飞","name":"d电子","type":1,"api":"https://cdn.dzzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"冬瓜","name":"d冬瓜","type":1,"api":"https://cdn.dzzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飞快","name":"f飞快","type":1,"api":"https://feikuai.in/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"非凡","name":"f非凡","type":1,"api":"http://www.ffzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
