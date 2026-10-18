@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "Notice",
-      "name": "柳飘风修改的源",
+      "name": "📢柳飘风修改的源",
       "type": 1,
       "api": "http://www.ffzy.tv/api.php/provide/vod/?ac=list",
       "searchable": 1,
