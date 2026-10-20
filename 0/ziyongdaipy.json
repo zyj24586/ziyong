@@ -50,6 +50,6 @@
 {"key":"zuidame","name":"z最大4","type":1,"api":"http://zuidazy.me/api.php/provide/vod","searchable":1,"categories": ["动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","理论片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片","电影解说","预告片","足球"],"filterable":1},
 //{"key":"py1","name":"红果","type":3,"api":"https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果.py"},
 //{"key":"建安采集","name":"15建安","type":1,"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod","searchable":1,"categories": ["动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","理论片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片","电影解说","预告片","足球"],"filterable":1},
-//{"key":"py2","name":"红果短剧","type":3,"api":"https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果短剧能看全集_修复版.py"},
+{"key":"py2","name":"红果短剧","type":3,"api":"https://gitee.com/willow-drifting-wind/iptv/raw/master/py/红果短剧能看全集_修复版.py"},
 {"key":"6876867","name":"空白没用","type":3,"api":"123"}
 ]}
