@@ -5,7 +5,7 @@
 { "url": "https://9280.kstore.vip/newwex.json", "name": "王小二1" },
 //不能用{ "url": "http://我不是.摸鱼儿.top", "name": "摸鱼儿1" },
 { "url": "https://0.wudaozhe.net/tvbox/幸福年年.json", "name": "幸福年年" },
-{ "url": "https://0.wudaozhe.net/tvbox/集多.json", "name": "集多" },
+{ "url": "https://0.wudaozhe.net/5/x4pro.json", "name": "菠菜X4" },
 { "url": "https://0.wudaozhe.net/tvbox/嗷呜.json", "name": "嗷呜" },
 { "url": "https://0.wudaozhe.net/tvbox/菠菜pro.json", "name": "菠菜pro" },
 { "url": "https://0.wudaozhe.net/tvbox/菠菜园.json", "name": "菠菜园" },
