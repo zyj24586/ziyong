@@ -5,7 +5,7 @@
 "sites": [
 {"key": "豆瓣","name": "🔰豆瓣丨影视推荐","type": 3,"api": "csp_Douban","indexs": 1,"searchable": 0},
 {"key": "配置中心","name": "📥网盘丨配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "oval"}},
-{"key": "网盘分享","name": "🌐网盘丨资源库","type": 3,"api": "csp_PanShare","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433},"ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/share.json"},
+{"key": "网盘分享","name": "🌐网盘丨资源库","type": 3,"api": "csp_PanShare","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433},"ext": "https://codeberg.org/zyj24586/123/raw/branch/main/share.json"},
 {"key": "指南","name": "💿原盘｜4K_iso","type": 3,"api": "csp_4KZhinan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": ["https://4kzn.cc"]},"timeout": 60},
 {"key": "玩耦","name": "💯玩耦｜4K臻享","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://wogg.xxooo.cf","http://www.wogg.live","https://www.wogg.net","https://woggpan.xxooo.cf"]},"timeout": 60},
 {"key": "木偶","name": "💯木偶｜4K臻享","type": 3,"api": "csp_PanWebShare","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://123.666291.xyz","https://333.333291.xyz","http://www.muoua.top","https://666.666291.xyz"]},"timeout": 60},
