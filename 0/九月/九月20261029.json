@@ -1132,7 +1132,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./json/alist.json"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/alist.json"
     },
     {
       "key": "WebDAV",
@@ -1148,7 +1148,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./json/webdav.json"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/webdav.json"
     },
     {
       "key": "本地",
