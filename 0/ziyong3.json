@@ -95,7 +95,7 @@
 //{"key": "阿里云盘","name": "我的丨阿里网盘","type": 3,"api": "csp_PanAli","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
 //{"key": "115网盘","name": "我的丨115网盘","type": 3,"api": "csp_Pan115","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
 //{"key": "AList","name": "Alist丨资源","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"quickSearch": 1,"timeout": 60,"playerType": 2,"style": {"type": "list"},"ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/alist.json"},
-{"key": "WebDAV","name": "WebDav┃资源","type": 3,"api": "csp_WebDAV","searchable": 1,"filterable": 1,"changeable": 1,"quickSearch": 1,"timeout": 60,"playerType": 2,"style": {"type": "list"},"ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/webdav.json"},
+//{"key": "WebDAV","name": "WebDav┃资源","type": 3,"api": "csp_WebDAV","searchable": 1,"filterable": 1,"changeable": 1,"quickSearch": 1,"timeout": 60,"playerType": 2,"style": {"type": "list"},"ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/九月/webdav.json"},
 {"key": "本地","name": "🎬本机｜文件播放","type": 3,"api": "csp_LocalFile"},
 {"key": "push_agent","name": "⚓手机｜推送视频","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0}
 ],
