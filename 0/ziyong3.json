@@ -109,7 +109,7 @@
 {"key": "独播影视","name": "独播｜蓝光秒播","type": 3,"api": "csp_Duboku"},
 {"key": "金牌影视","name": "金牌｜蓝光秒播","type": 3,"api": "csp_Jpys","ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
 {"key": "魔方","name": "魔方丨蓝光秒播","type": 3,"api": "csp_AppGet","searchable": 1,"changeable": 1,"ext": {"url": "https://www.douy32mf.top","dataKey": "1234567887654321","dataIv": "1234567887654321"}},
-{"key": "爱看机器人","name": "采集站大全","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+//不能用{"key": "爱看机器人","name": "采集站大全","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "天堂1","name": "电影天堂丨蓝光","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://39.105.18.5:5565/api.php/app/"},
 {"key": "Sao火","name": "Sao火丨蓝光影视","type": 3,"api": "csp_SaoHuo","ext": "https://shdy5.us"},
 {"key": "一起","name": "一起看丨蓝光影视","type": 3,"api": "csp_AppYQK","searchable": 1,"quickSearch": 1,"filterable": 0},
