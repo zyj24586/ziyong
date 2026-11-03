@@ -79,12 +79,9 @@
 {"key": "童趣","name": "童趣 • 儿童","type": 3,"api": "csp_TongQu","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {  "type": "rect",  "ratio": 1.618}},
 {"key": "兔小贝","name": "兔小贝 • 儿童","type": 3,"api": "csp_TuXiaoBei","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {  "type": "rect",  "ratio": 1.618}},
 {"key": "贝乐虎","name": "贝乐虎 • 儿童","type": 3,"api": "csp_BeiLeHu","searchable": 1,"quickSearch": 0,"changeable": 0,"style": {  "type": "rect",  "ratio": 1.618}},
-{"key": "push_agent","name": "手机 • 推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0,"hide": 1
-}
-  ],
-  "lives": [
-{}
-  ],
+{"key": "push_agent","name": "手机 • 推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0,"hide": 1}
+],
+  "lives": [{}],
   "parses": [
 {"name": "聚合","type": 3,"url": "Web"},
 {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}},
@@ -94,8 +91,7 @@
 {"name": "冰豆","type": 0,"url": "https://bd.jx.cn/?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}},
 {"name": "七七","type": 0,"url": "https://jx.77flv.cc/?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}},
 {"name": "盘古","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}},
-{"name": "夜幕","type": 0,"url": "https://yemu.xyz/?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}
-}
+{"name": "夜幕","type": 0,"url": "https://yemu.xyz/?url=","ext": {  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"  }}}
   ],
   "rules": [
 {"name": "农民","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
@@ -103,15 +99,13 @@
 {"name": "抖音","hosts": [  "douyin.com"],"regex": [  "is_play_url="]},
 {"name": "磁力广告","hosts": [  "magnet"]},
 {"name": "饭团点击","hosts": [  "dadagui",  "freeok",  "dadagui"],"script": [  "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"]},
-{"name": "毛驴点击","hosts": [  "www.maolvys.com"],"script": [  "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]
-}
+{"name": "毛驴点击","hosts": [  "www.maolvys.com"],"script": [  "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
   ],
   "doh": [
 {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1",  "2606:4700:4700::1111",  "2606:4700:4700::1001"]},
 {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": [  "94.140.14.140",  "94.140.14.141"]},
 {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": [  "84.200.69.80",  "84.200.70.40"]},
-{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": [  "9.9.9.9",  "149.112.112.112"]
-}
+{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": [  "9.9.9.9",  "149.112.112.112"]}
   ],
   "flags": [
 "youku",
