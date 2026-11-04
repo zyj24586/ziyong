@@ -45,7 +45,7 @@
 {"key": "即刻","name": "即刻 • 4K","type": 3,"api": "csp_Jike","searchable": 1,"quickSearch": 0,"filterable": 0,"style": {  "type": "list"},"timeout": 60},
 {"key": "双星","name": "双星 • 4K","type": 3,"api": "csp_ShuangXing","searchable": 1,"quickSearch": 0,"filterable": 0,"style": {  "type": "list"},"timeout": 60},
 {"key": "卡卡","name": "卡卡 • 4K","type": 3,"api": "csp_KKPan","searchable": 1,"quickSearch": 0,"filterable": 0,"style": {  "type": "list"},"timeout": 60},
-{"key": "红果短剧","name": "红果 • 短剧","type": 3,"api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py","genre": "shortdrama"},
+//{"key": "红果短剧","name": "红果 • 短剧","type": 3,"api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py","genre": "shortdrama"},
 {"key": "飞娱影视","name": "飞娱 • 影视","type": 3,"api": "csp_Feiyu"},
 {"key": "旺旺影视","name": "旺旺 • 影视","type": 3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
 {"key": "独播影视","name": "独播 • 影视","type": 3,"api": "csp_Duboku"},
