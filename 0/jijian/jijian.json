@@ -1,11 +1,5 @@
 {
-  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/jijian/tvbox.jar;f0039f36afa10bf563e819524dd7a1ec",
-  "lives": [
-    {
-      "name": "IPTV1",
-      "url": "http://193.123.86.190:14888/TV/iptv.php"
-    }
-  ],
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/jijian/tvbox.jar",
   "sites": [
     {
       "key": "豆瓣",
