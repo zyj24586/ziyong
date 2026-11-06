@@ -1,7 +1,5 @@
 {
-  "spider": "./jar/tvbox.jar;md5;f0039f36afa10bf563e819524dd7a1ec",
-  "logo": "https://cik08-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/5de94d5c4078d55c/1743094363596_240x240.gif",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/jijian/tvbox.jar;f0039f36afa10bf563e819524dd7a1ec",
   "lives": [
     {
       "name": "IPTV1",
