@@ -1,7 +1,7 @@
 {
-  "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
-  "wallpaper": "https://bing.img.run/1920x1080.php",
-  "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
+  "spider": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+  "wallpaper": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/1920x1080.php",
+  "logo": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "sites": [
     {
       "name": "🔥豆瓣┃推荐",
@@ -15,7 +15,7 @@
       "ext": "Douban"
     },
     {
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "key": "949497",
       "name": "🇨🇳快速解析",
       "type": 3,
@@ -23,7 +23,7 @@
       "ext": "http://172.247.227.203:25321/mtys.php"
     },
     {
-      "jar": "https://gitee.com/iwueiqwuei/dsvfbgnh/raw/master/niuma.jar;md5;9D69876F3C960EB4F92D5C7788E3E8F0",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/niuma.jar;md5;9D69876F3C960EB4F92D5C7788E3E8F0",
       "key": "咕噜4997",
       "name": "咕噜4K",
       "type": 3,
@@ -33,7 +33,7 @@
       "filterable": 1
     },
     {
-      "jar": "https://gitee.com/iwueiqwuei/dsvfbgnh/raw/master/niuma.jar;md5;9D69876F3C960EB4F92D5C7788E3E8F0",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/niuma.jar;md5;9D69876F3C960EB4F92D5C7788E3E8F0",
       "key": "hongguo",
       "name": "红果｜短剧",
       "type": 3,
@@ -49,7 +49,7 @@
       }
     },
     {
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
       "name": "橘子🍊4K",
       "key": "线路14",
       "type": 3,
@@ -64,11 +64,11 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/柠檬.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光2",
       "key": "线路84946",
       "type": 3,
@@ -83,11 +83,11 @@
       "name": "💧蓝光3️⃣",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "https://img2.gelonghui.com/library/959e6-f0a23ae5-25df-4079-8a35-00fd433101cc.png;md5;959e6f78c90fcfbf9309f05b226891c0",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/959e6-f0a23ae5-25df-4079-8a35-00fd433101cc.png;md5;959e6f78c90fcfbf9309f05b226891c0",
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "key": "麦田bjh",
       "name": "💧蓝光4️⃣",
       "type": 3,
@@ -95,7 +95,7 @@
       "ext": "http://172.247.227.203:25321/mtys.php"
     },
     {
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
       "name": "💧蓝光5️⃣",
       "key": "Dubk",
       "type": 3,
@@ -106,7 +106,7 @@
       "ext": "Dubk"
     },
     {
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/6c063da6-b726-44a0-bc01-9ec657b2d72c.png;md5;88cbe52257755e0025bc9e226a524309",
       "name": "💧蓝光6️⃣",
       "key": "Guazi",
       "type": 3,
@@ -117,7 +117,7 @@
       "ext": "Guazi"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光7️⃣",
       "key": "线路484910",
       "type": 3,
@@ -128,7 +128,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光8️⃣",
       "key": "线路1",
       "type": 3,
@@ -139,7 +139,7 @@
       "ext": "Guazi"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光9️⃣",
       "key": "线路2",
       "type": 3,
@@ -149,7 +149,7 @@
       "changeable": 1
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光10",
       "key": "线路194659490",
       "type": 3,
@@ -160,7 +160,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光11",
       "key": "线路6",
       "type": 3,
@@ -171,7 +171,7 @@
       "ext": "AppV7Zjdr"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光12",
       "key": "线路7",
       "type": 3,
@@ -182,7 +182,7 @@
       "ext": "AppV7Xyz"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光13",
       "key": "线路10",
       "type": 3,
@@ -193,7 +193,7 @@
       "ext": "AppV7Llq"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光14",
       "key": "线路11",
       "type": 3,
@@ -204,7 +204,7 @@
       "ext": "AppV7Xsz"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光15",
       "key": "线路12",
       "type": 3,
@@ -215,7 +215,7 @@
       "ext": "AppV7Xhr"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光16",
       "key": "线路13",
       "type": 3,
@@ -226,7 +226,7 @@
       "ext": "AppV7Dsx"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光17",
       "key": "线路15",
       "type": 3,
@@ -237,7 +237,7 @@
       "ext": "Rbys"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光18",
       "key": "线路16",
       "type": 3,
@@ -248,7 +248,7 @@
       "ext": "Dubk"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "💧蓝光19",
       "key": "线路17",
       "type": 3,
@@ -259,7 +259,7 @@
       "ext": "JPian"
     },
     {
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "🔥嗷呜┃短剧",
       "key": "DjHggg",
       "type": 3,
@@ -270,7 +270,7 @@
       "genre": "shortdrama"
     },
     {
-      "jar": "https://13395.kstore.space/xkyc/xiaosa.jar",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/xiaosa.jar",
       "key": "少儿教育",
       "name": "📚少儿｜教育",
       "type": 3,
@@ -279,7 +279,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://13395.kstore.space/xkyc/lib/SEJY.json",
+        "json": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/SEJY.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -288,7 +288,7 @@
       }
     },
     {
-      "jar": "https://13395.kstore.space/xkyc/xiaosa.jar",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/xiaosa.jar",
       "key": "小学课堂",
       "name": "📚小学｜课堂",
       "type": 3,
@@ -297,7 +297,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://13395.kstore.space/xkyc/lib/XXKT.json",
+        "json": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/XXKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -306,7 +306,7 @@
       }
     },
     {
-      "jar": "https://13395.kstore.space/xkyc/xiaosa.jar",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/xiaosa.jar",
       "key": "初中课堂",
       "name": "📚初中｜课堂",
       "type": 3,
@@ -315,7 +315,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://13395.kstore.space/xkyc/lib/CZKT.json",
+        "json": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/CZKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -324,7 +324,7 @@
       }
     },
     {
-      "jar": "https://13395.kstore.space/xkyc/xiaosa.jar",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/xiaosa.jar",
       "key": "高中课堂",
       "name": "📚高中｜课堂",
       "type": 3,
@@ -333,7 +333,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://13395.kstore.space/xkyc/lib/GZKT.json",
+        "json": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/GZKT.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -342,7 +342,7 @@
       }
     },
     {
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+      "jar": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/yyds20261109/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
       "name": "🏆飞球┃体育",
       "key": "FeiqLive",
       "type": 3,
