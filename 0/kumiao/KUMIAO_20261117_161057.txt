@@ -1,0 +1,427 @@
+{
+  
+"notice":"酷喵唯一维护Q群：1040884791",
+
+    "sites": [
+    
+   {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🐱2K藤讯",
+      "type": 3,
+      "api": "http://125.208.22.184:6698/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://fastlink.cokey.xyz/f/4NgbiK/t3.js"
+    },
+{
+  "key": "Amgi",
+  "name": "🐱4K茫淉",
+  "type": 3,
+  "api": "http://xn--oev29b.top/files/js/drpy2.min.js",
+  "ext": "http://xn--oev29b.top/files/js/芒果视频.js",
+  "jar": "http://xn--oev29b.top/files/88.jar"
+},
+    
+{
+      "key": "测试2",
+      "name": "🐱4K毕狸",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
+        },
+   
+{
+  "key": "爱奇艺",
+  "name": "🐱1K嗳琦仪",
+  "type": 3,
+  "api": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/js/drpy2.min.js",
+  "ext": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/js/%E7%88%B1%E5%A5%87%E8%89%BA.js",
+  "jar": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/spider.jar"
+},  
+{
+  "key": "优酷视频",
+  "name": "🐱高清悠庫",
+  "type": 3,
+  "api": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/js/drpy2.min.js",
+  "ext": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js",
+  "jar": "https://cdn04132025.gitlink.org.cn/api/v1/repos/hdxy111/xs/raw/spider.jar"
+},
+{
+      "key": "影探聚合py",
+      "name": "🐱影探聚合4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/pwkZij/%E5%BD%B1%E6%8E%A2%E7%89%87%E5%B8%9D.py"
+        },
+        {
+      "key": "片帝py",
+      "name": "🐱片帝4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/MQkrCW/%5B4K%5D%E7%89%87%E5%B8%9D.py"
+        },
+        {
+      "key": "河豚py",
+      "name": "🐱河豚4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/jwJNSb/%5B4K%5D%E6%B2%B3%E8%B1%9A.py"
+        },
+ 
+{
+      "key": "橘汁py",
+      "name": "🐱橘汁4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/BNOaUe/%E6%A9%98%E6%B1%81%E8%A7%86%E9%A2%91%EF%BC%88%E6%96%B0%EF%BC%89.py"
+        },
+
+        {
+      "key": "片库py",
+      "name": "🐱片库4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/GNkXiE/pianku4k.py"
+        },
+     {
+      "key": "剧下饭",
+      "name": "🐱下饭4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/AN1kTm/%E5%89%A7%E4%B8%8B%E9%A5%AD4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+{
+      "key": "多多影视",
+      "name": "🐱多多4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/9NOAhb/%E5%A4%9A%E5%A4%9A%E5%BD%B1%E8%A7%86%EF%BC%88%E5%8E%9F%E5%B8%83%E5%B8%83%EF%BC%89.py",
+     "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "jar": "https://clun.top/jar/xs.jar"
+
+     },
+ {
+      "key": "咕噜",
+      "name": "🐱咕噜4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/W1xjc8/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C4K%E4%BF%AE%E5%A4%8D%E7%89%882.py"
+        },
+
+    {
+      "key": "sapy",
+      "name": "🐱华谊4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/owrWh9/%5B%E5%BD%B1%5D%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py"
+        },
+          {
+      "key": "果荐py",
+      "name": "🐱果荐4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/YY3eIM/%5B%E5%BD%B1%5D%E9%87%91%E7%89%8CAPP.py"
+        }, 
+
+        {
+      "key": "枫叶",
+      "name": "🐱枫叶4K",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/橘汁视频（新）.py"
+        },
+             {
+  "key": "热播",
+  "name": "🐱2K秒播",
+  "type": 3,
+  "api": "csp_TianTian",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://v.rbotv.cn",
+  "jar": "https://ncstatic.clewm.net/rsrc/2026/0503/03/8cae0cb59e77c72c20168a84f6570bcd.png"
+},
+{
+      "key": "云播py",
+      "name": "🐱极速云播",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/1NbGs5/%5B4K%5D%E4%BA%91%E6%92%AD.py"
+        },
+
+    {
+      "key": "壹影视",
+      "name": "🐱壹影视",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/gQggT9wGIGKWIB7tBcQvPoGRwve5ouBz/apiv2017壹影视.py"
+    },
+    {
+      "key": "星芽",
+      "name": "🐱星芽短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/QABLuo/%5B%E7%9F%AD%5D%E6%82%9F%E5%9C%A3%E7%9F%AD%E5%89%A7.py"
+        },
+   {
+      "key": "全能py",
+      "name": "🐱全能短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/5NMBsd/%5B%E7%9F%AD%5D%E5%9C%A8%E7%BA%BF%E7%9F%AD%E5%89%A7.py"
+        },    
+{
+      "key": "酷喵短剧",
+      "name": "🐱二八短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/NnXRH4/%5B%E7%9F%AD%5D28%E7%9F%AD%E5%89%A7.py"
+        },
+     {
+      "key": "55短剧",
+      "name": "🐱五五短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/vw76Sl/%5B%E7%9F%AD%5D55%E7%9F%AD%E5%89%A7.py"
+        }, 
+        {
+      "key": "喜服",
+      "name": "🐱喜福短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/3NB2H0/%5B%E7%9F%AD%5D%E5%96%9C%E7%A6%8F%E7%9F%AD%E5%89%A7.py"
+        },  
+        {
+      "key": "果果",
+      "name": "🐱红果短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/alK1CJ/%E7%BA%A2%E6%9E%9C.py"
+        },
+        {
+      "key": "红果",
+      "name": "🐱红豆短剧",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/xw79Ip/%5B%E7%9F%AD%5D%E7%9F%B3%E6%A6%B4%E7%9F%AD%E5%89%A7.py"
+        }
+
+
+
+    ],
+        "doh": [
+        {
+            "name": "DNSPod",
+            "url": "https://doh.pub/dns-query",
+            "ips": [
+                "119.29.29.29",
+                "119.28.28.28",
+                "2400:da00::6666",
+                "2400:da00:1::6666"
+            ]
+        },
+        {
+            "name": "Alidns",
+            "url": "https://dns.alidns.com/dns-query",
+            "ips": [
+                "223.5.5.5",
+                "223.6.6.6",
+                "2400:3200::1",
+                "2400:3200:baba::1"
+            ]
+        },
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8",
+                "2001:4860:4860::8888",
+                "2001:4860:4860::8844"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141",
+                "2a10:50c0::ad1:ff",
+                "2a10:50c0::ad2:ff"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40",
+                "2001:67c:2354:2::64",
+                "2001:67c:2354:3::64"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-query",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112",
+                "2620:fe::fe",
+                "2620:fe::9"
+            ]
+        }
+    ],
+    "proxy": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "googleapis.com",
+        "youtube.com"
+    ],
+    "rules": [
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ],
+    "headers": [
+        {
+            "host": "img\\d+.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img1.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img2.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img3.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img4.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img5.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img6.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img7.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img8.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img9.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        }
+    ],
+    "hosts": [],
+    "parses": [
+    
+
+    {
+      "name": "盗用死全家",
+      "type": 1,
+      "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
+    }
+
+
+    
+    ],
+"lives": [
+        {
+      "name": "直播",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz",
+      "timeout": 10
+    }
+    
+
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+  ]
+  }
