@@ -53,7 +53,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://yc.wya6.cn/zhwj/json/share.json"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/share.json"
     },
     {
       "key": "ALLLive",
@@ -66,57 +66,57 @@
       "key": "txsp",
       "name": "腾云┃无意",
       "type": 3,
-      "api": "https://yc.wya6.cn/zhwj/js/drpy2.min.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yc.wya6.cn/zhwj/js/腾讯视频.js"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/腾讯视频.js"
     },
     {
       "key": "mgsp",
       "name": "无果┃无意",
       "type": 3,
-      "api": "https://yc.wya6.cn/zhwj/js/drpy2.min.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yc.wya6.cn/zhwj/js/芒果视频.js"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/芒果视频.js"
     },
     {
       "key": "wybl",
       "name": "哔哩┃无意",
       "type": 3,
-      "api": "https://yc.wya6.cn/zhwj/js/drpy2.min.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yc.wya6.cn/zhwj/js/哔哩视频.js"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/哔哩视频.js"
     },
     {
       "key": "aqy",
       "name": "奇艺┃无意",
       "type": 3,
-      "api": "https://yc.wya6.cn/zhwj/js/drpy2.min.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yc.wya6.cn/zhwj/js/爱奇艺.js"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/爱奇艺.js"
     },
     {
       "key": "yksp",
       "name": "优酷┃无意",
       "type": 3,
-      "api": "https://yc.wya6.cn/zhwj/js/drpy2.min.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yc.wya6.cn/zhwj/js/优酷视频.js"
+      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/优酷视频.js"
     },
     {
       "key": "wyt",
       "name": "叹映┃cms",
       "type": 3,
-      "api": "https://wy.wya6.cn/dljx/AppYsV2.js",
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/AppYsV2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -554,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://yc.wya6.cn/zhwj/py/懂片帝.py"
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/懂片帝.py"
     },
     {
       "key": "小苹果",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://yc.wya6.cn/zhwj/py/小苹果.py"
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/小苹果.py"
     },
     {
       "key": "云播4K",
@@ -572,7 +572,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://yc.wya6.cn/zhwj/py/云播4K.py"
+      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/云播4K.py"
     },
     {
       "key": "AppV7_Fz",
