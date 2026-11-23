@@ -93,16 +93,6 @@
       "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/哔哩视频.js"
     },
     {
-      "key": "aqy",
-      "name": "奇艺┃无意",
-      "type": 3,
-      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/爱奇艺.js"
-    },
-    {
       "key": "yksp",
       "name": "优酷┃无意",
       "type": 3,
