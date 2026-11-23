@@ -113,16 +113,6 @@
       "ext": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/优酷视频.js"
     },
     {
-      "key": "wyt",
-      "name": "叹映┃cms",
-      "type": 3,
-      "api": "https://gitee.com/willow-drifting-wind/iptv/raw/master/0/无意云/AppYsV2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.lyyytv.cn/api.php/app/"
-    },
-    {
       "key": "WuyiPs",
       "name": "大鱼┃盘搜",
       "type": 3,
