@@ -1617,19 +1617,6 @@
       }
     },
     {
-      "key": "Kanqiu",
-      "name": "看球┃体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "filterable": 1,
-      "indexs": 0,
-      "ext": "http://www.88kanqiu.one",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "Sir88",
       "name": "博览┃体育",
       "type": 3,
@@ -1646,15 +1633,6 @@
       "name": "青禾┃体育",
       "type": 3,
       "api": "csp_GuaziTY",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "919TY",
-      "name": "竞界┃体育",
-      "type": 3,
-      "api": "csp_C919TY",
       "searchable": 0,
       "filterable": 0,
       "changeable": 1
