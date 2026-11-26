@@ -1672,31 +1672,6 @@
       }
     },
     {
-      "key": "TingBook",
-      "name": "夏声┃有声",
-      "type": 3,
-      "api": "csp_TingBook",
-      "searchable": 1,
-      "indexs": 0,
-      "ext": "https://app.365ting.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "TingBookJinXia",
-      "name": "夏吟┃有声",
-      "type": 3,
-      "api": "csp_TingBookJinXia",
-      "searchable": 1,
-      "filterable": 1,
-      "indexs": 0,
-      "ext": "https://m.ting15.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "TingYou",
       "name": "伴听┃有声",
       "type": 3,
@@ -1728,49 +1703,6 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://yc.wya6.cn/zhwj/json/drive.json"
-    },
-    {
-      "key": "Wallpaper",
-      "name": "无意┃壁纸",
-      "type": 3,
-      "api": "csp_Wallpaper",
-      "searchable": 0,
-      "indexs": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.56
-      }
-    },
-    {
-      "key": "P74",
-      "name": "无意┃美图1",
-      "type": 3,
-      "api": "csp_P74",
-      "ext": "AfrJb9KydBKjv+8a0rYJolKchNJF8z93xx/AWcdD4VfKcfKzsYSyoI/+wSAcK6zC3RBsmXq81x/uGn53bpc3Cjg=",
-      "searchable": 1,
-      "indexs": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.56
-      }
-    },
-    {
-      "key": "MeiRenTu",
-      "name": "无意┃美图2",
-      "type": 3,
-      "api": "csp_MeiRenTu",
-      "searchable": 1,
-      "indexs": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 0.56
-      }
     },
     {
       "key": "jjjx",
